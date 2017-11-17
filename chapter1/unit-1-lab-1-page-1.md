@@ -1,8 +1,8 @@
 # Getting started with Snap!
 
-**In this **_**lab**_**,**you'll program an app that you can share with others and play on your phone.
+**In this **_**lab**_**, **you'll program an app that you can share with others and play on your phone.
 
-**On this **_**page**_**,**you'll learn how to create your own account to store your code, how to log in and out, and how to change your account password.
+**On this **_**page**_**, **you'll learn how to create your own account to store your code, how to log in and out, and how to change your account password.
 
 ## Creating an Account
 
@@ -18,7 +18,7 @@ If you haven't already opened
 
 If you're doing this in class, you should be working with a partner. If each of you is in front of a computer, one of you should keep Snap! open, and the other should keep this lab page open. If you are sharing a computer, use two browser tabs.
 
-### Logging In to and Out of Your Snap\_!\_Account
+### Logging In to and Out of Your Snap! Account
 
 You should be logged in whenever you are coding. Here's how to check if you are logged in
 
