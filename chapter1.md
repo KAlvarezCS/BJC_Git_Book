@@ -27,6 +27,7 @@ You should be logged in whenever you are coding. Here's how to check if you are 
    1. **If **it says "Logout" and your user name, then you are already logged in.
 
    2. **If **it says someone else's user name, then log them out and log in with your own user name.
+
    3. **Otherwise,** choose "Login..." and enter your user name and password.
 
 2. Do you have time to continue programming right now?
@@ -35,5 +36,5 @@ You should be logged in whenever you are coding. Here's how to check if you are 
 
    2. **Otherwise**, log out \(using the Cloud menu\).
 
-\`\`\` Remember to log out every time you are done programming.
+Remember to log out every time you are done programming.
 
