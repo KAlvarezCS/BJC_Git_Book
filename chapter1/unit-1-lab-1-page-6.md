@@ -4,3 +4,7 @@
 
 &lt;img src="[http://bjc.edc.org/bjc-r/img/1-introduction/U1ImageVideoAddendum\_img/U1L1P6\_AlonzoFading.gif](http://bjc.edc.org/bjc-r/img/1-introduction/U1ImageVideoAddendum_img/U1L1P6_AlonzoFading.gif)" width="200" height="100"/&gt;
 
+
+
+
+
