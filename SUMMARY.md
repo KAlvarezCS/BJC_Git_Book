@@ -9,5 +9,5 @@
     * [Unit 1 Lab 1 Page 4](unit-1-lab-1-page-4.md)
     * [Unit 1 Lab 1 Page 5](chapter1/unit-1-lab-1-page-5.md)
     * [Unit 1 Lab 1 Page 6](chapter1/unit-1-lab-1-page-6.md)
-    * Unit 1 Lab 1 Page 7
+    * [Unit 1 Lab 1 Page 7](chapter1/unit-1-lab-1-page-7.md)
 
