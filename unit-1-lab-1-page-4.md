@@ -10,11 +10,11 @@ The blocks you'll need can be found in the Motion and Operators palettes.
 
 ### For You To Do
 
-1. If you don't already have your U1L1-ClickAlonzo project open, open it now.
+1. If you don't already have your U1L1-ClickAlonzo project open, open it now. 
 
-      Click the file button and select "Open..." to see a list of all your projects.
+   1. Click the file button and select "Open..." to see a list of all your projects.
 
-   2. Find ![](/assets/random-1-10.png) in the green Operators palette, and click it several times to see what it does.
+1.     Find ![](/assets/random-1-10.png) in the green Operators palette, and click it several times to see what it does.
 
 
 
