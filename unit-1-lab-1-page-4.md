@@ -1,8 +1,6 @@
 ## Moving Randomly
 
-**On this page,**
-
-you'll add code to make Alonzo move to a random position each time he's clicked.!\[\]\([http://bjc.edc.org/bjc-r/img/1-introduction/alonzo-hopping.gif\](http://bjc.edc.org/bjc-r/img/1-introduction/alonzo-hopping.gif%29\)
+**On this page, **you'll add code to make Alonzo move to a random position each time he's clicked. !\[\]\([http://bjc.edc.org/bjc-r/img/1-introduction/alonzo-hopping.gif](http://bjc.edc.org/bjc-r/img/1-introduction/alonzo-hopping.gif%29\) "Alonzo Moving Gif"\)
 
 The blocks you'll need can be found in the Motion and Operators palettes.
 
@@ -32,8 +30,9 @@ Use the `go to`and`random`blocks together to made Alonzo move around randomly.
 
    Locations on the stage \(the white rectangle where sprites perform their scripts\) are specified by **coordinates**. The center   of the stage is \(0, 0\). The left edge is _x_= -240; the right edge is _x_= 240. The bottom and top are _y_= -180 and _y_= 180.
 
-1. Discuss why it makes sense to limit Alonzo's movements to less than the full range of the stage \(for example, by limiting his horizontal movements to between -190 to 190 instead of the full -240 to 240\).
-2. ![](/assets/save.png)
+6. Discuss why it makes sense to limit Alonzo's movements to less than the full range of the stage \(for example, by limiting his horizontal movements to between -190 to 190 instead of the full -240 to 240\).
+
+7. ![](/assets/save.png)
 
 
 
