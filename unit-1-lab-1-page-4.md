@@ -2,7 +2,7 @@
 
 **On this page,**
 
-you'll add code to make Alonzo move to a random position each time he's clicked.!\[\]\([http://bjc.edc.org/bjc-r/img/1-introduction/alonzo-hopping.gif\](http://bjc.edc.org/bjc-r/img/1-introduction/alonzo-hopping.gif\)\)
+you'll add code to make Alonzo move to a random position each time he's clicked.!\[\]\([http://bjc.edc.org/bjc-r/img/1-introduction/alonzo-hopping.gif\](http://bjc.edc.org/bjc-r/img/1-introduction/alonzo-hopping.gif%29\)
 
 The blocks you'll need can be found in the Motion and Operators palettes.
 
@@ -10,9 +10,11 @@ The blocks you'll need can be found in the Motion and Operators palettes.
 
 ### For You To Do
 
-1.If you don't already have your U1L1-ClickAlonzo project open, open it now.
+1. If you don't already have your U1L1-ClickAlonzo project open, open it now.
 
-     Click !\[\]\(http://bjc.edc.org/bjc-r/img/1-introduction/file\_button.png "File button"\) and select "Open..." to see a list of all your projects.
+      Click the file button and select "Open..." to see a list of all your projects.
+
+   2. Find ![](/assets/random-1-10.png) in the green Operators palette, and click it several times to see what it does.
 
 
 
