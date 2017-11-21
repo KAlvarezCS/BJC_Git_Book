@@ -1,6 +1,8 @@
 ## Moving Randomly
 
-**On this page, **you'll add code to make Alonzo move to a random position each time he's clicked. !\[\]\([http://bjc.edc.org/bjc-r/img/1-introduction/alonzo-hopping.gif](http://bjc.edc.org/bjc-r/img/1-introduction/alonzo-hopping.gif%29\) "Alonzo Moving Gif"\)
+**On this page, **you'll add code to make Alonzo move to a random position each time he's clicked. 
+
+!\[Alonzo Moving\]\([http://bjc.edc.org/bjc-r/img/1-introduction/alonzo-hopping.gif](http://bjc.edc.org/bjc-r/img/1-introduction/alonzo-hopping.gif%29\) "Alonzo Moving Gif"\)
 
 The blocks you'll need can be found in the Motion and Operators palettes.
 
