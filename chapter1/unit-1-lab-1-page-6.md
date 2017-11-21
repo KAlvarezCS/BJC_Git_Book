@@ -4,7 +4,11 @@
 
 &lt;img src="[http://bjc.edc.org/bjc-r/img/1-introduction/U1ImageVideoAddendum\_img/U1L1P6\_AlonzoFading.gif](http://bjc.edc.org/bjc-r/img/1-introduction/U1ImageVideoAddendum_img/U1L1P6_AlonzoFading.gif)" width="200" height="100"/&gt;
 
+## For You To Do
 
+1. To make Alonzo keep moving around, you need a block that says "do this forever." And there is a block that does it:  
+   ![](http://bjc.edc.org/bjc-r/img/1-introduction/forever.png "forever")Modify your Alonzo script so that it keeps going.  
+   ![](http://bjc.edc.org/bjc-r/img/1-introduction/U1ImageVideoAddendum_img/U1L1P6_toofast.png "when I am \(clicked\), say &apos;&apos;, forever \[next costume, go to x: \(pick random \(-190\) to \(190\)\) y: \(pick random \(-130\) to \(130\)\)\]")
 
 
 
