@@ -6,8 +6,8 @@
 
 It is good practice to save regularly so that you don't lose the work that you've done.
 
-1. If you are not logged in, [log in now](http://bjc.edc.org/bjc-r/cur/programming/1-introduction/1-building-an-app/1-creating-a-snap-account.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment). Then save this as "U1L1-ClickAlonzo"
-   Choose "Save" from the File menu \(![](http://bjc.edc.org/bjc-r/img/1-introduction/file_button.png "File button")\), and give your project a name that will help you remember what the project is. For this project, use U1L1-ClickAlonzo.
+1.      If you are not logged in, [log in now](http://bjc.edc.org/bjc-r/cur/programming/1-introduction/1-building-an-app/1-creating-a-snap-account.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment). Then save this as "U1L1-ClickAlonzo"
+        Choose "Save" from the File menu \(![](http://bjc.edc.org/bjc-r/img/1-introduction/file_button.png "File button")\), and give your project a name that will help you remember what the project is. For this project, use U1L1-ClickAlonzo.
    ```
     Only one partner needs to save now. You'll share the project with both partners at the end of this lab.
    ```
