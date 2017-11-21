@@ -16,8 +16,8 @@ Clicking the green flag \(![](http://bjc.edc.org/bjc-r/img/1-introduction/green-
 2. Crete a second script that makes Alonzo move to \(190,-130\) and say a welcome message whenever the green flag is click. \(Alonzo might say, "Welcome to 'Click On Alonzo!' Keep clicking me if you can!"\).
 3. Make that message disappear when the player clicks on Alonzo. The ![](http://bjc.edc.org/bjc-r/img/blocks/say-empty.png "say \(\)")block with an empty input will make the sprite say nothing.
 4. Check that your app does everything what you want:  
-   1. When the green flag is click, Alonzo should move to \(190,-130\) and say its message.  
-   2. When Alonzo is clicked, the message should disappear, and Alonzo should move to a random spot on the stage and face the other way,.
+   i. When the green flag is click, Alonzo should move to \(190,-130\) and say its message.  
+   ii. When Alonzo is clicked, the message should disappear, and Alonzo should move to a random spot on the stage and face the other way,.
 
 5. ![](/assets/save.png)
 
