@@ -26,18 +26,18 @@ Here's a video that shows how: [https://youtu.be/RJUiqWRuzmA](https://youtu.be/R
 
 ### If There Is Time...
 
-1. Load  the app on a mobile device:
+1. Load  the app on a mobile device:  
    1. **On Apple iOS...**
 
-      1. On your mobile device, open the project URL from step 3 or 4 above in Safari.
-      2. At the bottom of the Safari screen, tap the ![](https://i.stack.imgur.com/JCZNV.png)share icon, then select "Add to Home Screen" from the menu that appears.
+   1. On your mobile device, open the project URL from step 3 or 4 above in Safari.
+   2. At the bottom of the Safari screen, tap the ![](https://i.stack.imgur.com/JCZNV.png)share icon, then select "Add to Home Screen" from the menu that appears.
 
-   2. **On Android...**
+   1. **On Android...**
 
       1. On your mobile device, open the project URL from step 3 or 4 above in Chrome.
       2. Tap the ☰ settings icon, then select "Add to homescreen" from the menu that appears.
 
-1. ![](/assets/sharework.png)by emailing, texting, tweeting, or facebooking the URL to your friends!
+2. ![](/assets/sharework.png)by emailing, texting, tweeting, or facebooking the URL to your friends!
 
 
 
