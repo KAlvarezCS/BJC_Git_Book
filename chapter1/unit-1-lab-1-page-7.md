@@ -11,9 +11,7 @@
 
 4. Copy the URL \(web address\) from the top of your browser window. You can **use that link **to share the app.
 
-   ```
-   You can also make a [tiny URL](http://tinyurl.com/) for your game to make typing the URL easier.
-   ```
+     You can also make a \[tiny URL\]\(http://tinyurl.com/\) for your game to make typing the URL easier.
 
 Here's a video that shows how: [https://youtu.be/RJUiqWRuzmA](https://youtu.be/RJUiqWRuzmA)
 
@@ -32,7 +30,7 @@ Here's a video that shows how: [https://youtu.be/RJUiqWRuzmA](https://youtu.be/R
    1. On your mobile device, open the project URL from step 3 or 4 above in Safari.
    2. At the bottom of the Safari screen, tap the ![](https://i.stack.imgur.com/JCZNV.png)share icon, then select "Add to Home Screen" from the menu that appears.
 
-   1. **On Android...**
+   3. **On Android...**
 
       1. On your mobile device, open the project URL from step 3 or 4 above in Chrome.
       2. Tap the ☰ settings icon, then select "Add to homescreen" from the menu that appears.
