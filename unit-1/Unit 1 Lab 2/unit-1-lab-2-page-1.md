@@ -10,7 +10,9 @@
 ### For You To Do
 
 1. [![](http://bjc.edc.org/bjc-r/img/icons/load-save.png "Click here to load this file. Then save it to your Snap! account.")](http://snap.berkeley.edu/snapsource/snap.html#open:http://bjc.edc.org/bjc-r/prog/1-introduction/U1L2-Gossip.xml)
-             You'll need to be [logged in](http://bjc.edc.org/bjc-r/cur/programming/1-introduction/1-building-an-app/1-creating-a-snap-account.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment#login) to save to your account.
+   ```
+   You'll need to be [logged in](http://bjc.edc.org/bjc-r/cur/programming/1-introduction/1-building-an-app/1-creating-a-snap-account.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment#login) to save to your account.
+   ```
 2. Perform each experiment \(A-D\) several times.
 3. ![](http://bjc.edc.org/bjc-r/img/icons/talk-with-your-partner.png "Talk with Your Partner")
 
