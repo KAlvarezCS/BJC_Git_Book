@@ -14,19 +14,19 @@ The blocks you'll need can be found in the Motion and Operators palettes.
 
    1. Click the file button and select "Open..." to see a list of all your projects.
 
-2. Find ![](/assets/random-1-10.png) in the green Operators palette, and click it several times to see what it does.
+2. Find ![](/blocks/random-1-10.png)in the green Operators palette, and click it several times to see what it does.
 
 3. ![](/assets/talk_with_partner.png)Describe clearly what the random block does.
 
 Use the `go to`and`random`blocks together to made Alonzo move around randomly.
 
-1. Snap the ![](/assets/goto_block.png) block onto the end of your script.
+1. Snap the ![](/blocks/goto_block.png) block onto the end of your script.
 
-2. Snap a ![](/assets/random_block.png) block into each input slot of ![](/assets/goto_block.png). The animation shows how, but you'll need to do more than it shows.
+2. Snap a ![](/blocks/random_block.png) block into each input slot of ![](/blocks/goto_block.png). The animation shows how, but you'll need to do more than it shows.
 
-3. Click on Alonzo. If you've left the 1 and 10 in the input slots of the ![](/assets/random_block.png) Alonzo will move only tiny distances.
+3. Click on Alonzo. If you've left the 1 and 10 in the input slots of the ![](/blocks/random_block.png) Alonzo will move only tiny distances.
 
-4. Change the inputs to ![](/assets/random_block.png) so Alonzo moves to random coordinates, with x varying from -190 and 190, and y varying from -130 through 130.
+4. Change the inputs to ![](/blocks/random_block.png) so Alonzo moves to random coordinates, with x varying from -190 and 190, and y varying from -130 through 130.
 
 5. Click Alonzo. If your script work, Alonzo should face the other way and move to a random spot.
 
