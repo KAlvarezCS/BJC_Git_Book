@@ -11,11 +11,15 @@
 
 4. Copy the URL \(web address\) from the top of your browser window. You can **use that link **to share the app.
 
-          You can also make a [tiny URL](http://tinyurl.com/) for your game to make typing the URL easier.
+   ```
+   You can also make a [tiny URL](http://tinyurl.com/) for your game to make typing the URL easier.
+   ```
+
+Here's a video that shows how: https://youtu.be/RJUiqWRuzmA
+
+1. ![](/assets/pair_programming.png)Log out and let your partner log in. Open the link you created with the first partner's account, and save the project in the second partner's account so that you both have a copy.
+
+         Note: These are copies--not the same file. So, if you change the project in one person's account, it will not change in the               other person's account; you will need to save it to their account again.
 
 
-
-Here's a video that shows how:
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/RJUiqWRuzmA" frameborder="0" gesture="media" allowfullscreen&gt;&lt;/iframe&gt;
 
