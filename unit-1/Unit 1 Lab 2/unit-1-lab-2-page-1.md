@@ -26,7 +26,7 @@
 
 **If There Is Time...**
 
-1. Just as you created an [Alonzo costume](http://bjc.edc.org/bjc-r/cur/programming/1-introduction/1-building-an-app/2-start-your-first-snap-app.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment), you could give the gray sprite a costume. ![](http://bjc.edc.org/bjc-r/img/1-introduction/gossip-costume.jpg "gossip sprite with costume")
+Just as you created an [Alonzo costume](http://bjc.edc.org/bjc-r/cur/programming/1-introduction/1-building-an-app/2-start-your-first-snap-app.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment), you could give the gray sprite a costume. ![](http://bjc.edc.org/bjc-r/img/1-introduction/gossip-costume.jpg "gossip sprite with costume")
 
 ### Exploring a Second Sprite ![](/assets/pair_programming.png)
 
