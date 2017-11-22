@@ -1,10 +1,6 @@
 # Greeting the Player
 
-![](/assets/pair_programming.png)
-
-```
-Your Click Alonzo script runs _when Alonzo is clicked. _**On this page,**you'll make a second script that welcomes the player _when the green flag \(_![](http://bjc.edc.org/bjc-r/img/1-introduction/green-flag_button.png "green-flag button")_\) is clicked._
-```
+![](/assets/pair_programming.png)Your Click Alonzo script runs when Alonzo is clicked. \*\*On this page,\*\*you'll make a second script that welcomes the player \_when the green flag \\(\_!\[\]\(http://bjc.edc.org/bjc-r/img/1-introduction/green-flag\_button.png "green-flag button"\)\_\\) is clicked.\_
 
 ![](http://bjc.edc.org/bjc-r/img/1-introduction/hat-block.png "a yellow round-topped hat block that says When") Blocks that look like this can be used to detect an **event **such as clicking on the sprite, pressing a key, or clicking the green flag button. They tell the script to start when that event occurs. Because these blocks can sit only on top of a script \(as a way to start the script\), Snap\_!\_programmers call them "hat blocks."
 
