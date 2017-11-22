@@ -33,7 +33,7 @@
 
    ![](http://bjc.edc.org/bjc-r/img/1-introduction/snap-center-tabs.png "Draggable box un-check")
 
-5. Check your program: click \_on Alonzo \_on the white stage. If your script works, Alonzo should face the other way.
+5. Check your program: click on Alonzo on the white stage. If your script works, Alonzo should face the other way.
 
 
 
