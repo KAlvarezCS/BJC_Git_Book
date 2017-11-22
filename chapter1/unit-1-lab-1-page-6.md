@@ -13,10 +13,19 @@
 2. Alonzo moves too fast! use the ![](/assets/wait1.png)block to slow him down. You can increase or reduce the wait time if you like.
 
 3. The command ![](/blocks/changeGhost.png)controls Alonzo's brightness. Experiment with different inputs to see exactly what it does.
+
 4. Then, modify your script so that every time Alonzo is clicked, he gets a little lighter.
 5. Play your game a few times. Adjust your code to get a level of difficulty that you like.![](/assets/save.png)
 
-    You can use the ghost effect and the wait time and to make the game easier or harder.
+   You can use the ghost effect and the wait time and to make the game easier or harder.
+
+
+
+## If There Is Time...
+
+1. Put another block in your program to change ghost effect by -5 any time Alonzo moves without being clicked.
+
+![](/assets/talk_with_partner.png) How does this change the gameplay
 
 
 
