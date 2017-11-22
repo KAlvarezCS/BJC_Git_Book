@@ -11,7 +11,7 @@
 
 4. Copy the URL \(web address\) from the top of your browser window. You can **use that link **to share the app.
 
-     You can also make a \[tiny URL\]\(http://tinyurl.com/\) for your game to make typing the URL easier.
+           You can also make a \[tiny URL\]\([http://tinyurl.com/\](http://tinyurl.com/\)\) for your game to make typing the URL easier.
 
 Here's a video that shows how: [https://youtu.be/RJUiqWRuzmA](https://youtu.be/RJUiqWRuzmA)
 
