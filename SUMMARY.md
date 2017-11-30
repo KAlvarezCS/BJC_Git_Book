@@ -15,8 +15,6 @@
     * [Unit 1 Lab 2 Page 2](unit-1/Unit 1 Lab 2/unit-1-lab-2-page-2.md)
     * [Unit 1 Lab 2 Page 3](unit-1/Unit 1 Lab 2/unit-1-lab-2-page-3.md)
     * [Unit 1 Lab 2 Page 4](unit-1/Unit 1 Lab 2/unit-1-lab-2-page-4.md)
-  * Unit 1 Lab 3
-    * Unit 1 Lab 3 Page 1
-
-
+  * [Unit 1 Lab 3](unit-1/Unit 1 Lab 3/unit-1-lab-3.md)
+    * [Unit 1 Lab 3 Page 1](unit-1/Unit 1 Lab 3/unit-1-lab-3-page-1.md)
 
