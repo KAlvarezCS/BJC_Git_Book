@@ -2,7 +2,7 @@
 
 ![](http://bjc.edc.org/bjc-r/img/1-introduction/Blockswith-Inputs_img/branchesCycle.gif)
 
-**On this page,** you will create many different pictures \(like the ones above\) by creating a single block with an _Input slot: _![](http://bjc.edc.org/bjc-r/img/1-introduction/pinwheel-block.png "pinwheel-block")\_ .\_Input slots allow one block to do many related jobs.
+**On this page,** you will create many different pictures \(like the ones above\) by creating a single block with an _Input slot: _![](http://bjc.edc.org/bjc-r/img/1-introduction/pinwheel-block.png "pinwheel-block").Input slots allow one block to do many related jobs.
 
 ##### For You To Do
 
@@ -29,11 +29,11 @@ The scripts are essentially all the same; only the \_input values \_change. Inst
    [![](http://bjc.edc.org/bjc-r/img/1-introduction/Blockswith-Inputs_img/YouTubeVideoIcon.png "video of Making an Block with an Input")](https://youtu.be/SG6DlrtjEwI?rel=0)  
    ![](http://bjc.edc.org/bjc-r/img/1-introduction/Blockswith-Inputs_img/category.png "Make a block")
 
-   * This block is about _moving _your sprite, so you might choose the blue Motion palette. Or just leave it gray.
+   * This block is about \_moving \_your sprite, so you might choose the blue Motion palette. Or just leave it gray.
    * Using a comma and a colon are not requirements; they are here to help with clarity.
 
 2. **Click the + \(plus sign\) after the variable label, type the name of the input**, and click OK to add the variable input slot. For  
-   `pinwheel `, click the + after "branches:" and type number of branches as the name of your input variable.
+   `pinwheel`, click the + after "branches:" and type number of branches as the name of your input variable.
 
    ![](http://bjc.edc.org/bjc-r/img/1-introduction/Blockswith-Inputs_img/plusSign.png "Plus sign")  
    ![](http://bjc.edc.org/bjc-r/img/1-introduction/Blockswith-Inputs_img/inputName.png "Creat input name")
