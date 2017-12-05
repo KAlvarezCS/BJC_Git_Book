@@ -26,13 +26,35 @@ You can use ![](http://bjc.edc.org/bjc-r/img/prog/for.png "for") to name a varia
 
 1. Click on the File![](http://bjc.edc.org/bjc-r/img/sys/button-file-menu.png "File menu icon") menu at the top of the Snap! window and select "Import Tools."
 
-   1. The
+   1. The for block gives you a default variable, i\(for index\). You can change the name of this variable by clicking it. Once changed, drag it out and use it just like any variable.
 
-      for
+2. Build this script that makes the sprite say the numbers 1 through 10.v![](http://bjc.edc.org/bjc-r/img/1-introduction/for-i-1-10-say-i.png "for \(i\) = \(1\) to \(10\) \[say \(i\) for \(2\) secs\]")
 
-      block gives you a default variable,
+   1. Then modify it so that the sprite says 0, 2, 4, 6, 8, ... up through 30.
+   2. Discuss your solutions with another pair.
 
-      i\(for index\). You can change the name of this variable by clicking it. Once changed, drag it out and use it just like any variable.
+3. Experiment with spirals.
+
+   1. Build this script and try it out: This design got the nickname "squiral" because it's a square spiral.
+      ![](http://bjc.edc.org/bjc-r/img/looping/squirral-script.png "squiral script")
+ 
+   2. ![](http://bjc.edc.org/bjc-r/img/icons/talk-with-your-partner.png "Talk with Your Partner")Make sure you can explain why the squiral spirals outward.
+   3. Try switching the order of the 100 and the 1 in the `for `block in the squiral script. What is the result?
+   4. Try changing the turning angle in the squiral script to other numbers such as 92, 126, etc.
+   5. Change the inputs to `turn `and `move `to get as close as you can get to a smooth spiral:
+ 
+      ![](http://bjc.edc.org/bjc-r/img/prog/spiral.png "spiral")
+
+4. Save this as "U1L3-Squiral"
+
+#### If There Is Time...
+
+1. Open your U1L3-Pinwheel project, and build a `nest squares `block that uses `for `and your `polygon `block to draw nested squares. Give it an input so that it will draw whatever number of squares you specify, with each square larger than the previous: ![](http://bjc.edc.org/bjc-r/img/1-introduction/nested-squares.png)
+2. Build `nest polygons `that accepts the number of polygons and the number of sides for the polygons.
+
+3. Build a script that draws 12 regular polygons, each with one more side than the previous one, as shown below. ![](http://bjc.edc.org/bjc-r/img/1-introduction/polygons.png)
+
+4. Predict what this script will do before you try it: ![](http://bjc.edc.org/bjc-r/img/1-introduction/nested-fors.png)
 
 
 
