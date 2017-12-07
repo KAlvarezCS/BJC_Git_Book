@@ -36,7 +36,5 @@
     * Build Your Own Clock
     * The Game of Pong
     * Daisy Design
-    * Modeling Art
-
-
+    * [Modeling Art](unit-1/Unit 1 Lab 1/modeling-art.md)
 
