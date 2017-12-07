@@ -35,6 +35,6 @@
     * Sprite Line Art
     * Build Your Own Clock
     * The Game of Pong
-    * Daisy Design
+    * [Daisy Design](unit-1/Unit 1 Lab 1/daisy-design.md)
     * [Modeling Art](unit-1/Unit 1 Lab 1/modeling-art.md)
 
