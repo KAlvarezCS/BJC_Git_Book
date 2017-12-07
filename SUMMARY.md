@@ -33,7 +33,7 @@
     * [Unit 1 Lab 5 Page 2](unit-1/Unit 1 Lab 1/unit-1-lab-5/unit-1-lab-5-page-2.md)
   * Optional Projects
     * Sprite Line Art
-    * Build Your Own Clock
+    * [Build Your Own Clock](unit-1/Unit 1 Lab 1/build-your-own-clock.md)
     * [The Game of Pong](unit-1/Unit 1 Lab 1/the-game-of-pong.md)
     * [Daisy Design](unit-1/Unit 1 Lab 1/daisy-design.md)
     * [Modeling Art](unit-1/Unit 1 Lab 1/modeling-art.md)
