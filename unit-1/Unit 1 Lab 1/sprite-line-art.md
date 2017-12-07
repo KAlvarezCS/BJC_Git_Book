@@ -16,16 +16,16 @@
    * Set the drawing pen to a color and size of your choice
    * Put pen down to get ready for drawing
 
-3. Write code that will clear the drawings `when space key pressed`by the user.
+3. Write code that will clear the drawings `when space key pressed `by the user.
 
-4. Now you are ready to write the code for what will happen when each of the arrow keys are pressed. Here is what should happen `when right arrow key pressed`by the user.
+4. Now you are ready to write the code for what will happen when each of the arrow keys are pressed. Here is what should happen `when right arrow key pressed `by the user.
 
    * Point to the right.
    * Move a certain amount, say 10 steps, in that direction.
 
 5. Now write the code blocks to enable the remaining arrow keys: left, up, and down.
 
-Here is how Snap\_! \_assigns angles for directions:
+Here is how Snap! assigns angles for directions:
 
 * 0° is up
 * 90° is right
@@ -40,7 +40,7 @@ Positive angles are measured clockwise from the 0°, up direction, and negative 
 
 1. Now, the program will continue drawing past the edge of the screen. Change your code to draw only if the drawing sprite is within the screen dimensions: -240 to 240 in the x direction \(horizontal\) and -180 to 180 in the y-direction \(vertical\). You can create blocks such as the one below to restrict sprite movement. ![](http://bjc.edc.org/bjc-r/img/1-introduction/SpriteLineArt_img/xRestriction.png "if \(x position&amp;lt;240\)")
 
-2. Give your user some coloring options. For example, when “1” key is pressed, the pen color is reset to black, when “2” key is pressed, the pen color is set to red etc. Also consider using some keys to put the `pen up`or `pen down`.
+2. Give your user some coloring options. For example, when “1” key is pressed, the pen color is reset to black, when “2” key is pressed, the pen color is set to red etc. Also consider using some keys to put the `pen up `or `pen down`.
 
 3. Give your user the option to draw diagonal lines. For example, write code to move the drawing sprite at 45°, 135°, 225°, 315°, using the “w”, “s”, “a”, “q” keys.
 

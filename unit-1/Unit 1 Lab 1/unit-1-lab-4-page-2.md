@@ -19,7 +19,7 @@
    * Corporations
    * People with cellphone cameras
 
-3. Discuss: **What are some reasons for giving up privacy in certain areas? **Identify one area in your life in which you purposely give up privacy. What are the risks? Why have _you _decided that the benefits outweigh the risks? Here are a few reasons people give up privacy:
+3. Discuss: **What are some reasons for giving up privacy in certain areas? **Identify one area in your life in which you purposely give up privacy. What are the risks? Why have you decided that the benefits outweigh the risks? Here are a few reasons people give up privacy:
 
    * You gain convenience from tailored ads and location services.
    * People today care more about online friendships.
