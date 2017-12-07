@@ -31,4 +31,12 @@
   * [Unit 1 Lab 5](unit-1/Unit 1 Lab 1/unit-1-lab-5.md)
     * [Unit 1 Lab 5 Page 1](unit-1/Unit 1 Lab 1/unit-1-lab-5/unit-1-lab-5-page-1.md)
     * [Unit 1 Lab 5 Page 2](unit-1/Unit 1 Lab 1/unit-1-lab-5/unit-1-lab-5-page-2.md)
+  * Optional Projects
+    * Sprite Line Art
+    * Build Your Own Clock
+    * The Game of Pong
+    * Daisy Design
+    * Modeling Art
+
+
 
