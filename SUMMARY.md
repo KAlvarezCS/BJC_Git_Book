@@ -31,7 +31,7 @@
   * [Unit 1 Lab 5](unit-1/Unit 1 Lab 1/unit-1-lab-5.md)
     * [Unit 1 Lab 5 Page 1](unit-1/Unit 1 Lab 1/unit-1-lab-5/unit-1-lab-5-page-1.md)
     * [Unit 1 Lab 5 Page 2](unit-1/Unit 1 Lab 1/unit-1-lab-5/unit-1-lab-5-page-2.md)
-  * Optional Projects
+  * [Optional Projects](unit-1/Unit 1 Lab 1/optional-projects.md)
     * [Sprite Line Art](unit-1/Unit 1 Lab 1/sprite-line-art.md)
     * [Build Your Own Clock](unit-1/Unit 1 Lab 1/build-your-own-clock.md)
     * [The Game of Pong](unit-1/Unit 1 Lab 1/the-game-of-pong.md)
