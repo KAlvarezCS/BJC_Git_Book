@@ -1,4 +1,4 @@
-# BJC Curriculum
+# BJC Curriculum on GitBook!
 
 
 
