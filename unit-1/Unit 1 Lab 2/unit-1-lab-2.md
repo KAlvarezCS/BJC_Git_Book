@@ -1,4 +1,4 @@
-# UNIT 1 LAB 2
+# UNIT 1 LAB 2 Gossip and Greet
 
 
 
