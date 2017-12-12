@@ -28,11 +28,9 @@ Then she clicks that `set`block to run it.
 
 **Gamal:** Oh! I know how! I bet we can use ![](http://bjc.edc.org/bjc-r/img/2-complexity/item%28%29of%28list%29.png "item\(\)of\(list\)"). Give it a number as its first input. I bet that the ![](http://bjc.edc.org/bjc-r/img/3-lists/list_input_slot.png "rectangle with two smaller orange rectangles inside") just says that it expects a list as its second input.
 
-**Alphie:** I wonder if we can make _our _`go to point `block show that it expects a list as input....
+**Alphie:** I wonder if we can make _our _`go to point`block show that it expects a list as input....
 
-
-
-Yes, _you _can make _your _blocks show what type of data they expect as inputs: a number, a list, or some other type. Some languages _require _the data type to be indicated. In Snap_! _it's an option. It's not necessary but, like assigning a color to a block, it can be a helpful reminder of what the block does and what type of input it expects. You've already seen input slots of several shapes, indicating different expected data types.
+Yes, _you can make your blocks show what type of data they expect as inputs: a number, a list, or some other type. Some languages require the data type to be indicated. In Snap_! it's an option. It's not necessary but, like assigning a color to a block, it can be a helpful reminder of what the block does and what type of input it expects. You've already seen input slots of several shapes, indicating different expected data types.
 
 #### For You To Do
 
