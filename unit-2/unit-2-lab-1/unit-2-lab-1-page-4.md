@@ -10,21 +10,17 @@ Often you will find a use for code that you've already built in some other proje
 
 2. Fix any problems with `greet player`. When it's working correctly, \_export \_it. \(Instructions below.\)**Exporting Blocks**
 
-   1. **Choose "Export blocks..." **from the Snap\_! \_file menu \(![](http://bjc.edc.org/bjc-r/img/1-introduction/file_button.png "File menu button")\).
+   1. **Choose "Export blocks..." **from the Snap! file menu \(![](http://bjc.edc.org/bjc-r/img/1-introduction/file_button.png "File menu button")\).
 
-   2. **Select only the block\(s\) you wish to export **\(in this case, just `greet player`
+   2. **Select only the block\(s\) you wish to export **\(in this case, just `greet player`\), and click "OK." An XML file will download.
 
-      \), and click "OK." An XML file will download.
+3. Now, open your U2L1-NumberGuessing project, and import your `greet player`block. **Importing Blocks**
 
-3. Now, open your U2L1-NumberGuessing project, and \_import \_your `greet player`block. **Importing Blocks**
+   1. **Choose "Import..." **from the Snap! file menu \(![](http://bjc.edc.org/bjc-r/img/1-introduction/file_button.png "File menu button")\).
 
-   1. **Choose "Import..." **from the Snap\_! \_file menu \(![](http://bjc.edc.org/bjc-r/img/1-introduction/file_button.png "File menu button")\).
+   2. **Locate the XML file you exported **\(perhaps on your desktop or in your downloads folder\) and **click Open**.
 
-   2. **Locate the XML file you exported **\(perhaps on your desktop or in your downloads folder\) and
-
-      **click Open**.
-
-   3. **Find the block\(s\) **you want. They will appear at the \_end \_of the palette that contains them.
+   3. **Find the block\(s\) **you want. They will appear at the end of the palette that contains them.
 
    4. **Click the imported block to make sure it runs properly. **\(You'll likely see an error message after you've entered a name.\)![](http://bjc.edc.org/bjc-r/img/1-introduction/greet-player-error.png "greet player reporting an error message: &apos;Inside: Error. a variable of name &apos;player list&apos; does not exist in this context&apos;")
 
@@ -32,9 +28,9 @@ Often you will find a use for code that you've already built in some other proje
 
 #### Debugging Dependencies
 
-Sometimes when you take a script out of the program where you built it and try to use it somewhere else, something breaks. It could be that the script depends on a custom block that isn't defined in the new program, or it could be \(as in this case\) that the script depends on a\_global variable\_that isn't defined in the new program.
+Sometimes when you take a script out of the program where you built it and try to use it somewhere else, something breaks. It could be that the script depends on a custom block that isn't defined in the new program, or it could be \(as in this case\) that the script depends on a global variable that isn't defined in the new program.
 
-To fix this problem so you can use the imported block, you'll need to define the global variable in your new program. Dependencies are one reason to use script variables rather than global variables whenever you can. Because they are defined \_in \_their scripts, you don't lose them when you move the script to a new place.
+To fix this problem so you can use the imported block, you'll need to define the global variable in your new program. Dependencies are one reason to use script variables rather than global variables whenever you can. Because they are defined in their scripts, you don't lose them when you move the script to a new place.
 
 #### For You To Do
 
@@ -45,9 +41,7 @@ To fix this problem so you can use the imported block, you'll need to define the
 2. **Test and Debug. **Your program should:
 
    * Greet the player and remember player names
-   * Play the Number Guessing game with a new
-     secret number
-     every time
+   * Play the Number Guessing game with a new secret number every time
 
    Fix any problems with your code.
 
