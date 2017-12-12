@@ -8,7 +8,7 @@ Often you will find a use for code that you've already built in some other proje
 
 1. Open your U1L2-GreetPlayer project, run it a few times, and review the code so you remember how it works. \(Once you have some names in the player list, try names that are on the list and names that are not.\)
 
-2. Fix any problems with `greet player`. When it's working correctly, \_export \_it. \(Instructions below.\)**Exporting Blocks**
+2. Fix any problems with `greet player`. When it's working correctly, export it. \(Instructions below.\)**Exporting Blocks**
 
    1. **Choose "Export blocks..." **from the Snap! file menu \(![](http://bjc.edc.org/bjc-r/img/1-introduction/file_button.png "File menu button")\).
 
