@@ -26,3 +26,17 @@ Then she clicks that `set`block to run it.
 
 **Betsy: ** So we'll make a new block. Let's call it `go to point`. It'll work like this ![](http://bjc.edc.org/bjc-r/img/2-complexity/go-to-point%28list%28-50%29%2820%29%29.png "go to point \(list \(-50\) \(20\)\)"). We'll use ![](http://bjc.edc.org/bjc-r/img/2-complexity/go-to-x%28%29-y%28%29.png "go to x:\(\) y:\(\)") or ![](http://bjc.edc.org/bjc-r/img/2-complexity/glide%28.5%29secs-to-x%28%29-y%28%29.png "glide \(.5\) secs to x:\(\) y:\(\)") inside it, but we'll have to process the input, ![](http://bjc.edc.org/bjc-r/img/2-complexity/list%28-50%29%2820%29.png "list\(-50\)\(20\)"), to supply `x:`and `y:`separately. Hmmm...
 
+**Gamal:** Oh! I know how! I bet we can use ![](http://bjc.edc.org/bjc-r/img/2-complexity/item%28%29of%28list%29.png "item\(\)of\(list\)"). Give it a number as its first input. I bet that the ![](http://bjc.edc.org/bjc-r/img/3-lists/list_input_slot.png "rectangle with two smaller orange rectangles inside") just says that it expects a list as its second input.
+
+**Alphie:** I wonder if we can make _our _`go to point `block show that it expects a list as input....
+
+
+
+Yes, _you _can make _your _blocks show what type of data they expect as inputs: a number, a list, or some other type. Some languages _require _the data type to be indicated. In Snap_! _it's an option. It's not necessary but, like assigning a color to a block, it can be a helpful reminder of what the block does and what type of input it expects. You've already seen input slots of several shapes, indicating different expected data types.
+
+#### For You To Do
+
+1. [Click here to load. Save to Your Snap! account.](http://snap.berkeley.edu/snapsource/snap.html#open:http://bjc.edc.org/bjc-r/prog/2-complexity/U2L2-DrawShape.xml) It contains the list of points, but you need to build their![](http://bjc.edc.org/bjc-r/img/2-complexity/go-to-point-point.png "go to point \(point\) block with list type input named point")**Specifying an Input Type **This animation shows you how to specify the list input type. Other input types are specified the same way. ![](http://bjc.edc.org/bjc-r/img/3-lists/list_input_slot.png "rectangle with two smaller orange rectangles inside") block. 
+
+
+
