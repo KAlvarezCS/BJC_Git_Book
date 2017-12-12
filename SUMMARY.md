@@ -44,5 +44,5 @@
     * [Unit 2 Lab 1 Page 3](unit-2/unit-2-lab-1/unit-2-lab-1-page-3.md)
     * [Unit 2 Lab 1 Page 4](unit-2/unit-2-lab-1/unit-2-lab-1-page-4.md)
   * [Unit 2 Lab 2](unit-2/unit-2-lab-2.md)
-    * Unit 2 Lab 2 Page 1
+    * [Unit 2 Lab 2 Page 1](unit-2/unit-2-lab-2/unit-2-lab-2-page-1.md)
 
