@@ -34,7 +34,38 @@ Yes, _you can make your blocks show what type of data they expect as inputs: a n
 
 #### For You To Do
 
-1. [Click here to load. Save to Your Snap! account.](http://snap.berkeley.edu/snapsource/snap.html#open:http://bjc.edc.org/bjc-r/prog/2-complexity/U2L2-DrawShape.xml) It contains the list of points, but you need to build their![](http://bjc.edc.org/bjc-r/img/2-complexity/go-to-point-point.png "go to point \(point\) block with list type input named point")**Specifying an Input Type **This animation shows you how to specify the list input type. Other input types are specified the same way. ![](http://bjc.edc.org/bjc-r/img/3-lists/list_input_slot.png "rectangle with two smaller orange rectangles inside") block. 
+1. [Click here to load. Save to Your Snap! account.](http://snap.berkeley.edu/snapsource/snap.html#open:http://bjc.edc.org/bjc-r/prog/2-complexity/U2L2-DrawShape.xml) It contains the list of points, but you need to build their![](http://bjc.edc.org/bjc-r/img/2-complexity/go-to-point-point.png "go to point \(point\) block with list type input named point")**Specifying an Input Type **This animation shows you how to specify the list input type. Other input types are specified the same way. ![](http://bjc.edc.org/bjc-r/img/3-lists/list_input_slot.png "rectangle with two smaller orange rectangles inside") block. ![](http://bjc.edc.org/bjc-r/img/2-complexity/U2ImageVideoAddendum_img/gotopointAnimation.gif)After creating the title and naming the input,
+   * Click on the arrow to the right of the input name:
+ 
+     ![](http://bjc.edc.org/bjc-r/img/2-complexity/create-input-name-right_arrow.png "create input name right arrow")
+   * Choose the data type you want for that input.
+   * Click OK.
+2. Finish building your go to point and test your block with a few points as input to make sure it does what you want it to.
+
+#### Thinking Out Loud
+
+**Alphie:** Great! Now we can use our `go to point `block for each of the points in our list.
+
+**Betsy:** I bet we can use![](http://bjc.edc.org/bjc-r/img/2-complexity/for-each-%28item%29-of%28%29.png "for-each-\(item\)-of\(\)").
+
+Alphie and Betsy design this new script to automate the process of going to each point. ![](http://bjc.edc.org/bjc-r/img/2-complexity/new-for-each-point-script.png "new-for-each-point-script") Then they test it out.
+
+**Alphie:** Yup! `for each `does exactly what we want. But we have a couple of bugs to fix.
+
+#### For You To Do
+
+Build and test the script they used.
+
+1. Fix the two bugs Alphie noticed.
+2. Save this as "U2L2-DrawShape"
+3. **Think and write:**
+   * For what purposes might you _not _want to connect the first and last points?
+   * For what purposes might you want to have the pen down _only _when the sprite marks each point, but never when the sprite moves from one point to another?
+   * For what purposes might you prefer `go to `over `glide`?
+
+#### Take It Further
+
+Create three new points and a script that draws the complete letter A. You'll have to design a way to indicate in a list of points that they aren't all connected. 
 
 
 
