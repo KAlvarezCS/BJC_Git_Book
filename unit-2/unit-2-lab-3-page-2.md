@@ -2,14 +2,14 @@
 
 **On this page**, you will use predicates with the`keep`block to keep items in a list that have specific characteristics.
 
-As you know, predicates can be used with conditionals to decide when to_do_something; they can also be used with`keep`to decide which things to_keep_. The![](http://bjc.edc.org/bjc-r/img/blocks/keep.png "keep")block takes a list and a predicateas input, and it reports a new list keeping only the items from the list that make the condition described by the predicate true.
+As you know, predicates can be used with conditionals to decide when to_do\_something; they can also be used with_`keep`_to decide which things to\_keep_. The![](http://bjc.edc.org/bjc-r/img/blocks/keep.png "keep")block takes a list and a predicateas input, and it reports a new list keeping only the items from the list that make the condition described by the predicate true.
 
-For example, the following expression will find words from thewords list**whose first letter is v**. The_blank input slot_is where each item of the list goes to decide if it will be kept.  
+For example, the following expression will find words from thewords list**whose first letter is v**. The\_blank input slot\_is where each item of the list goes to decide if it will be kept.  
 ![](http://bjc.edc.org/bjc-r/img/2-complexity/keep-example-6.png "keep items such that \(\(letter\(1\) of \( \)\) = \(v\)\) from \(word list\)")
 
-You write the predicate that does the checking, and**`keep`applies the predicate to each item in the input list and then reports the list of items that make your predicate`true`**.
+You write the predicate that does the checking, and`keep`**applies the predicate to each item in the input list and then reports the list of items that make your predicate**`true`.
 
-Note that the blank input slot in the predicate is _required _when using `keep`. This is where the item from the list goes each time the question is asked.
+Note that the blank input slot in the predicate is \_required \_when using `keep`. This is where the item from the list goes each time the question is asked.
 
 #### For You To Do
 
@@ -22,9 +22,9 @@ Note that the blank input slot in the predicate is _required _when using `keep`.
    ![](http://bjc.edc.org/bjc-r/img/2-complexity/keep-example-4.png "keep items such that \(\(length of \( \)\) = \(5\)\) from {apple, banana, orange, grape, kiwi, mango, watermelon} reporting {apple, grape, mango}")
    ![](http://bjc.edc.org/bjc-r/img/2-complexity/keep-example-7.png "keep items such that \(not\(is \(\) a \(number\)?\)\) from {5, :\), six, 7, elephant, 3} reporting {5,7,3}")
 
-Like [the `for `block](http://bjc.edc.org/bjc-r/cur/programming/1-introduction/3-drawing/6-the-for-block.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment), `keep `isn't installed automatically. It has already been added to this project, but in other projects, you'll need to select "Import tools" from the File menu to access the `keep `block.
+Like [the `for`block](http://bjc.edc.org/bjc-r/cur/programming/1-introduction/3-drawing/6-the-for-block.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment), `keep`isn't installed automatically. It has already been added to this project, but in other projects, you'll need to select "Import tools" from the File menu to access the `keep`block.
 
-The first example keeps inputs of a certain _length_; every word in the list is asked whether its length is 5, and only those with five letters are reported. The second example keeps inputs that are _not numbers_; every item in this list is asked "Is this item _not _a number?" and only the elements that are not numbers are reported.
+The first example keeps inputs of a certain _length_; every word in the list is asked whether its length is 5, and only those with five letters are reported. The second example keeps inputs that are _not numbers_; every item in this list is asked "Is this item \_not \_a number?" and only the elements that are not numbers are reported.
 
 #### For You To Do
 
@@ -40,7 +40,7 @@ Run `initialize lists`, and then use your new predicates together with `keep`to 
 
 #### If There Is Time...
 
-If you created an `integer? `predicate, use your new predicates together with `keep `to determine how many numbers in the numbers list are:
+If you created an `integer?`predicate, use your new predicates together with `keep`to determine how many numbers in the numbers list are:
 
 1. Integers?
 2. Integers between 25 and 75?
