@@ -16,15 +16,15 @@
 
    * Then, change the inputs as the video shows:![](http://bjc.edc.org/bjc-r/img/1-introduction/duplicating-a-script.gif).
 
-1. Try each script by itself to be certain what it does. Then clear the stage.
+3. Try each script by itself to be certain what it does. Then clear the stage.
 
-2. Now, insert the entire script for the blue triangle between the move and turn block of the red triangle, like this. ![](http://bjc.edc.org/bjc-r/img/1-introduction/embedding-one-script-in-another.gif)
+4. Now, insert the entire script for the blue triangle between the move and turn block of the red triangle, like this. ![](http://bjc.edc.org/bjc-r/img/1-introduction/embedding-one-script-in-another.gif)
 
-3. ![](/assets/talk_with_partner.png)Predict what will happen when you run this ![](/assets/pair_programming.png) script.
+5. ![](/assets/talk_with_partner.png)Predict what will happen when you run this ![](/assets/pair_programming.png) script.
 
-4. Then, try this script to see what it does.
+6. Then, try this script to see what it does.
 
-5. Using the scripts you have, find a way to make this picture. ![](http://bjc.edc.org/bjc-r/img/2-complexity/U2ImageVideoAddendum_img/three-color-sierpinski.png "Red triangle with blue children and green grandchildren")
+7. Using the scripts you have, find a way to make this picture. ![](http://bjc.edc.org/bjc-r/img/2-complexity/U2ImageVideoAddendum_img/three-color-sierpinski.png "Red triangle with blue children and green grandchildren")
 
 #### If There is Time...
 
@@ -57,7 +57,7 @@ Does all this copying and pasting of code feel awkward to you? You know a better
 
 1. Try adding a color input and using ![](http://bjc.edc.org/bjc-r/img/2-complexity/set-pen-color-to-number.png "set-pen-color-to-number") instead of ![](http://bjc.edc.org/bjc-r/img/2-complexity/set-pen-color-to-color-selector.png "set-pen-color-to-color-selector") so that you can vary the color as you draw. In the "recursive call"—the block that is embedded \_inside \_and that has the half-size input—try adding 10 to the color. Before you try this block, use ![](http://bjc.edc.org/bjc-r/img/2-complexity/set-pen-color-to-color-selector.png "set-pen-color-to-color-selector") to pick a colorful color, not nearly white or nearly black. Then you can use any color number as input to your new block.
 
-2. Examine this code without running it:
+2. Examine this code without running it:![](http://bjc.edc.org/bjc-r/img/2-complexity/blue-square-embedded-in-red-square.png "blue-square-embedded-in-red-square")
 
    1. Predict how many blue shapes it will draw.
 
@@ -65,7 +65,13 @@ Does all this copying and pasting of code feel awkward to you? You know a better
 
    3. If one more copy of the basic script were embedded inside the blue, how many copies of that shape would be drawn?
 
+#### Take It Further
 
+* Use what you know about animations to try things like this:
+
+![](http://bjc.edc.org/bjc-r/img/2-complexity/U2ImageVideoAddendum_img/RecursiveTriangleAnimation.gif "Recursive Triangle Animation")
+
+![](http://bjc.edc.org/bjc-r/img/2-complexity/U2ImageVideoAddendum_img/RecursiveSquareAnimation.gif "Recursive Square Animation")
 
 
 
