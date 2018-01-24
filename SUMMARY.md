@@ -55,4 +55,5 @@
   * [Unit 2 Lab 4](unit-2/unit-2-lab-4.md)
     * [Unit 2 Lab 4 Page 1](unit-2/unit-2-lab-4/unit-2-lab-4-page-1.md)
     * [Unit 2 Lab 4 Page 2](unit-2/unit-2-lab-4/unit-2-lab-4-page-2.md)
+    * [Unit 2 Lab 4 Page 3](unit-2/unit-2-lab-4/unit-2-lab-4-page-3.md)
 
