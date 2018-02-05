@@ -61,6 +61,6 @@
     * [Unit 2 Lab 5 Page 1](unit-2/unit-2-lab-5/unit-2-lab-5-page-1.md)
     * [Unit 2 Lab 5 page 2](unit-2/unit-2-lab-5/unit-2-lab-5-page-2.md)
     * [Unit 2 Lab 5 Page 3](unit-2/unit-2-lab-5/unit-2-lab-5-page-3.md)
-    * Unit 2 Lab 5 Page 4
-    * Unit 2 Lab 5 Page 5
+    * [Unit 2 Lab 5 Page 4](unit-2/unit-2-lab-5/unit-2-lab-5-page-4.md)
+    * [Unit 2 Lab 5 Page 5](unit-2/unit-2-lab-5/unit-2-lab-5-page-5.md)
 
