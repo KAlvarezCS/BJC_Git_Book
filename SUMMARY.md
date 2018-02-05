@@ -64,11 +64,9 @@
     * [Unit 2 Lab 5 Page 4](unit-2/unit-2-lab-5/unit-2-lab-5-page-4.md)
     * [Unit 2 Lab 5 Page 5](unit-2/unit-2-lab-5/unit-2-lab-5-page-5.md)
   * Optional Projects
-    * Automated Fortune Teller
-    * Egyptian Motif
-    * Mastermind
-    * Modeling Language: Plurals, Part 1
+    * [Automated Fortune Teller](unit-2/automated-fortune-teller.md)
+    * [Egyptian Motif](unit-2/egyptian-motif.md)
+    * [Mastermind](unit-2/mastermind.md)
+    * [Modeling Language: Plurals, Part 1](unit-2/modeling-language-plurals-part-1.md)
     * Modeling Language: Plurals Part 2
-
-
 
