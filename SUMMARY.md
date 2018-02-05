@@ -71,7 +71,7 @@
     * [Modeling Language: Plurals Part 2](unit-2/modeling-language-plurals-part-2.md)
 * [Unit 3](unit-3.md)
   * [Unit 3 Lab 1](unit-3-lab-1.md)
-    * Unit 3 Lab 1 Page 1
+    * [Unit 3 Lab 1 Page 1](unit-3-lab-1/unit-3-lab-1-page-1.md)
     * Unit 3 Lab 1 Page 2
     * Unit 3 Lab 1 Page 3
     * Unit 3 Lab 1 Page 4
