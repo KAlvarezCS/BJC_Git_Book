@@ -68,5 +68,5 @@
     * [Egyptian Motif](unit-2/egyptian-motif.md)
     * [Mastermind](unit-2/mastermind.md)
     * [Modeling Language: Plurals, Part 1](unit-2/modeling-language-plurals-part-1.md)
-    * Modeling Language: Plurals Part 2
+    * [Modeling Language: Plurals Part 2](unit-2/modeling-language-plurals-part-2.md)
 
