@@ -95,5 +95,5 @@
   * [Optional Projects](optional-projects.md)
     * [Animation Studio](optional-projects/animation-studio.md)
     * [Op Art](optional-projects/op-art.md)
-    * Music Project
+    * [Music Project](optional-projects/music-project.md)
 
