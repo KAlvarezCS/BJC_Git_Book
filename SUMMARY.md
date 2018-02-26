@@ -86,5 +86,16 @@
   * [Unit 3 Lab 4](unit-3-lab-4.md)
     * [Unit 3 Lab 4 Page 1](unit-3-lab-4-page-1.md)
     * [Unit 3 Lab 4 Page 2](unit-3-lab-4-page-2.md)
-    * Unit 3 Lab 4 Page 3
+    * [Unit 3 Lab 4 Page 3](unit-3-lab-4-page-3.md)
+  * Unit 3 Lab 5
+    * Unit 3 Lab 5 Page 1
+    * Unit 3 Lab 5 Page 2
+    * Unit 3 Lab 5 Page 3
+    * Unit 3 Lab 5 Page 4
+  * Optional Projects
+    * Animation Studio
+    * Op Art
+    * Music Project
+
+
 
