@@ -99,4 +99,5 @@
 * [Unit 4](unit-4.md)
   * [Unit 4 Lab 1](unit-4/unit-4-lab-1.md)
     * [Unit 4 Lab 1 Page 1](unit-4/unit-4-lab-1/unit-4-lab-1-page-1.md)
+    * [Unit 4 Lab 1 Page 2](unit-4/unit-4-lab-1/unit-4-lab-1-page-2.md)
 

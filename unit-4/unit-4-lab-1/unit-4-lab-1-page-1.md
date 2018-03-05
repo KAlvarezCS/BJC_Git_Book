@@ -8,7 +8,7 @@ Most web pages are written with HTML \(hypertext markup language\) and interpret
 
 If your connection blocks YouTube, [watch the video here](http://scratch.mit.edu/discuss/youtube/kBXQZMmiA4s).
 
-https://youtu.be/kBXQZMmiA4s
+[https://youtu.be/kBXQZMmiA4s](https://youtu.be/kBXQZMmiA4s)
 
 #### What is a URL?
 
@@ -26,7 +26,7 @@ For example, the URL shown above tells a browser to use the http protocol to acc
 
 1. ![](https://bjc.edc.org/bjc-r/img/icons/talk-with-your-partner.png "Talk with Your Partner")
 
-   Describe the parts of this URL for the Snap_! _logo: [http://snap.berkeley.edu/Logo5.png](http://snap.berkeley.edu/Logo5.png)
+   Describe the parts of this URL for the Snap! logo: [http://snap.berkeley.edu/Logo5.png](http://snap.berkeley.edu/Logo5.png)
 
 But the Internet is more general than the World Wide Web. It also supports email, file transfers, mobile apps, texting \(a.k.a. SMS or Short Message Service\), and many other ways that computers communicate behind the scenes.
 
