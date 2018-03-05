@@ -5,9 +5,9 @@
 #### For You To Do
 
 1. Read "Encryption in the Hands of Terrorists, and Everyone Else" and "Why Not Regulate Encryption?" \(  
-   [\_Blown to Bits \_pages 161-165](http://www.bitsbook.com/wp-content/uploads/2008/12/B2B_3.pdf#page=179) \).
+   [Blown to Bits pages 161-165](http://www.bitsbook.com/wp-content/uploads/2008/12/B2B_3.pdf#page=179) \).
 
-2. Read "Cryptography Unsettled" \([\_Blown to Bits \_pages 191- top of 193](http://www.bitsbook.com/wp-content/uploads/2008/12/B2B_3.pdf#page=209)\).
+2. Read "Cryptography Unsettled" \([Blown to Bits pages 191- top of 193](http://www.bitsbook.com/wp-content/uploads/2008/12/B2B_3.pdf#page=209)\).
 
 3. Do the following debate activity on the issue of the availability of encryption software. You will be representing either the government, a civil liberties group, or the business community.
 
