@@ -96,9 +96,7 @@
     * [Animation Studio](optional-projects/animation-studio.md)
     * [Op Art](optional-projects/op-art.md)
     * [Music Project](optional-projects/music-project.md)
-* Unit 4
-  * Unit 4 Lab 1
-    * Unit 4 Lab 1 Page 1
-
-
+* [Unit 4](unit-4.md)
+  * [Unit 4 Lab 1](unit-4/unit-4-lab-1.md)
+    * [Unit 4 Lab 1 Page 1](unit-4/unit-4-lab-1/unit-4-lab-1-page-1.md)
 
