@@ -110,7 +110,7 @@
   * [Unit 4 Lab 3](unit-4/unit-4-lab-3.md)
     * [Unit 4 Lab 3 Page 1](unit-4/unit-4-lab-3-page-1.md)
     * [Unit 4 Lab 3 Page 2](unit-4/unit-4-lab-3-page-2.md)
-    * Unit 4 Lab 3 Page 3
+    * [Unit 4 Lab 3 Page 3](unit-4/unit-4-lab-3-page-3.md)
     * Unit 4 Lab 3 Page 4
     * Unit 4 Lab 3 Page 5
     * Unit 4 Lab 3 Page 6
