@@ -1,6 +1,6 @@
 # Working Conditions
 
-Computers can affect the _style _of work, even if they don't take your job away.
+Computers can affect the style of work, even if they don't take your job away.
 
 #### For You To Do
 

@@ -1,6 +1,6 @@
 # What Is the Internet?
 
-The**Internet**is a network of independent but connected devices all over the world. People talk as if "the Internet" and "the World Wide Web" are the same thing, but they are not. The**World Wide Web**is the collection of interlinked website_documents_\(such as[HTML](https://bjc.edc.org/bjc-r/cur/programming/6-computers/optional-projects/writing-html.html?topic=nyc_bjc%2F4-internet.topic&course=bjc4nyc.html&novideo&noassignment)files\) that you can view with a web browser by typing addresses like[http://bjc.berkeley.edu/website/privacy.html](http://bjc.berkeley.edu/website/privacy.html).
+The **Internet **is a network of independent but connected devices all over the world. People talk as if "the Internet" and "the World Wide Web" are the same thing, but they are not. The **World Wide Web **is the collection of interlinked website _documents_\(such as [HTML](https://bjc.edc.org/bjc-r/cur/programming/6-computers/optional-projects/writing-html.html?topic=nyc_bjc%2F4-internet.topic&course=bjc4nyc.html&novideo&noassignment) files\) that you can view with a web browser by typing addresses like [http://bjc.berkeley.edu/website/privacy.html](http://bjc.berkeley.edu/website/privacy.html).
 
 Most web pages are written with HTML \(hypertext markup language\) and interpreted by your browser using HTTP \(hypertext transfer protocol\).
 

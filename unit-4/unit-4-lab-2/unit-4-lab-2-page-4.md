@@ -10,26 +10,26 @@ In 2009 the US Department of Commerce signed a new agreement with ICANN recogniz
 
 ### The Power of Open Protocols
 
-The Internet is a_packet-switched system_through which digital data is sent by breaking the data into packets that contain both the data being transmitted and address routing the data. Protocols \(i.e. standards\) control the routing, reliability, and interpretation of the data.
+The Internet is a\_packet-switched system\_through which digital data is sent by breaking the data into packets that contain both the data being transmitted and address routing the data. Protocols \(i.e. standards\) control the routing, reliability, and interpretation of the data.
 
-The growth of the Internet has been fueled by**open protocols**, standards that are_not owned by a company_.
+The growth of the Internet has been fueled by **open protocols**, standards that are _not owned by a company_.
 
 Examples of open protocols:
 
-* Standards for _sharing information _and _communicating between browsers and servers _on the Web include **HTTP**, Simple Mail Transfer Protocol \(**SMTP**\) and secure sockets layer/transport layer security \(**SSL**/**TLS**\)
-* Standards for _packets and routing _include transmission control protocol/Internet protocol \(**TCP**/**IP**\).
+* Standards for sharing information and communicating between browsers and servers \_on the Web include **HTTP**, Simple Mail Transfer Protocol \(**SMTP**\) and secure sockets layer/transport layer security \(**SSL**/**TLS**\)
+* Standards for packets and routing include transmission control protocol/Internet protocol \(**TCP**/**IP**\).
 
 The **Internet Engineering Task Force**\(IETF\) are the experts in charge of developing and approving these protocols. The Internet Engineering Task Force \(IETF\) and the Internet Society that oversees the IETF oversee the Internet protocols, and the Internet Consortium for Assigned Names and Numbers \(ICANN\) controls the DNS hierarchy and the allocation of IP addresses.
 
 The work of the IETF is done largely by email, and anyone with the necessary expertise can join the mailing lists. Decisions are made by consensus \(everyone has to agree to a change\), never by voting. The idea is that if a proposal is controversial enough to need a vote, then it should be improved until everyone's objections are satisfied. Unlike ICANN, the IETF has been remarkably free from political pressure, even though it, too, has historically been dominated by experts from the United States.
 
-The Internet Society \(ISOC\) is a worldwide nonprofit membership society that_anyone_can join, for free. It is now officially in charge of the IETF and also conducts education and promotes government policies supporting an open Internet.
+The Internet Society \(ISOC\) is a worldwide nonprofit membership society that anyone can join, for free. It is now officially in charge of the IETF and also conducts education and promotes government policies supporting an open Internet.
 
 ### The Issue of US Control
 
 ![](https://bjc.edc.org/bjc-r/img/4-internet/snowden.png "Edward Snowden")
 
-If you think it's strange for one country to control a worldwide network, you're not alone. Other countries have never been happy about the US control of the Internet, which was_officially_under US control until 2009 and is still, according to many critics, unofficially dominated by the US government.
+If you think it's strange for one country to control a worldwide network, you're not alone. Other countries have never been happy about the US control of the Internet, which was officially under US control until 2009 and is still, according to many critics, unofficially dominated by the US government.
 
 For example until 2009, all DNS domain names had to use the English alphabet, despite constant requests to accommodate other languages.
 
@@ -45,16 +45,13 @@ Once IP was invented in 1982, the ARPANET became just one network among many, an
 
 **From Research to Commerce**
 
-During all this time, the assignment of IP addresses and host names was_controlled first by the ARPA and later by NSF_. But when the commercial use of the Internet became larger than the research use,_that control was passed to the US Department of Commerce_, which set up ICANN to control the domain namespace and allocation of IP addresses.
+During all this time, the assignment of IP addresses and host names was _controlled first by the ARPA and later by NSF_. But when the commercial use of the Internet became larger than the research use,_that control was passed to the US Department of Commerce_, which set up ICANN to control the domain namespace and allocation of IP addresses.
 
 In 2009, the Department of Commerce signed an agreement making ICANN independent, although it still has a contract with the US that gives the Department of Commerce a role in reviewing ICANN's operation.
 
 #### If There Is Time...
 
-1. Read [_Blown to Bits _pages 312-316](http://www.bitsbook.com/wp-content/uploads/2008/12/B2B_3.pdf#page=330).
-
-  
-
+1. Read [Blown to Bits pages 312-316](http://www.bitsbook.com/wp-content/uploads/2008/12/B2B_3.pdf#page=330).
 
 
 

@@ -12,7 +12,7 @@
 3. Do the following debate activity on the issue of the availability of encryption software. You will be representing either the government, a civil liberties group, or the business community.
 
    1. First, as a class, discuss the position each of these groups will take on the issue. What will the government claim is the right thing to do regarding encryption software? What would civil liberties advocates say should be done? The business community? Each group should have a clear position statement that everyone in the class knows.
-   2. Split into three groups - government, civil liberty groups, and businesses. In each group, write the two \_most convincing \_reasons or pieces of evidence that support your position. Then write one reason \_against \_the position of each of the other two groups. For example, the government group would write:
+   2. Split into three groups - government, civil liberty groups, and businesses. In each group, write the two most convincing reasons or pieces of evidence that support your position. Then write one reason against the position of each of the other two groups. For example, the government group would write:
 
       1. Government's position: \_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

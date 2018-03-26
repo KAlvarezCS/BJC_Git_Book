@@ -1,14 +1,16 @@
 # Symmetric Cryptography
 
-You might have used a**substitution cipher**to encode your message, substituting each letter of the alphabet with some other letter. You could substitute letters in any order, like this:
+You might have used a **substitution cipher **to encode your message, substituting each letter of the alphabet with some other letter. You could substitute letters in any order, like this:
 
-          ABCDEFGHIJKLMNOPQRSTUVWXYZ
+```
+      ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
-          PQVFUBZOTHWYELIXRNAMGDSCKJ
+      PQVFUBZOTHWYELIXRNAMGDSCKJ
+```
 
 That's called a **general substitution cipher**.
 
-Or you might just _shift _the letters in order. For example, this is a shift of 3:
+Or you might just shift the letters in order. For example, this is a shift of 3:
 
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
@@ -30,7 +32,7 @@ Substitution ciphers are examples of symmetric encryption because they use the s
    1. Read about Al-Kindi, the Arabic philosopher and mathematician who first described the frequency analysis method of code-breaking, in "Breaking Substitution Ciphers" \(Blown to Bits pages 166-169\)
    2. This method is still useful today, even with better cryptography tools: How as 1200-year-old Hacking Technique Can Already Crack Tomorrow's Encrypted Vaults \(Forbes, 9/3/15\)
 
-2. Read "Secret Keys and One-Time Pads" \([_Blown to Bits_pages 169-173](http://www.bitsbook.com/wp-content/uploads/2008/12/B2B_3.pdf#page=187)\) to learn about Vigenère ciphers and methods used during World War 2 and the Cold War.
+2. Read "Secret Keys and One-Time Pads" \([\_Blown to Bits\_pages 169-173](http://www.bitsbook.com/wp-content/uploads/2008/12/B2B_3.pdf#page=187)\) to learn about Vigenère ciphers and methods used during World War 2 and the Cold War.
 
 
 

@@ -12,11 +12,9 @@
 
 The Internet is global and bits flow all over the world. Each country have laws for what is allowed or not allowed on the Internet, but what happens when countries have different laws?
 
-
-
 #### For You To Do
 
-1. Read [_Blown to Bits _pages 253-257](http://www.bitsbook.com/wp-content/uploads/2008/12/B2B_3.pdf#page=271).
+1. Read [Blown to Bits pages 253-257](http://www.bitsbook.com/wp-content/uploads/2008/12/B2B_3.pdf#page=271).
 2. Examine [this infographic about internet censorship \(Business Insider, 3/20/15\)](http://www.businessinsider.com/infographic-shows-internet-censorship-around-world-2015-3), especially Part 2: Methods of Internet Censorship, the Direct Actions and Demands for Removal.
 3. Discuss and/or write about:
 
@@ -26,7 +24,5 @@ The Internet is global and bits flow all over the world. Each country have laws 
 
 1. You can find out more about internet filtering around the world at [opennet.net](https://opennet.net/). In particular, note their different maps showing internet filtering according to particular topics, as well as filtering of social media and YouTube, specifically.
 
-For example, you can learn that in 2008, [Pakistan accidentally blocked YouTube around the world for a couple of hours](https://opennet.net/blog/2008/02/pakistan%E2%80%99s-internet-has-a-bad-weekend) in trying to block the site in its country.
-
-
+For example, you can learn that in 2008, [Pakistan accidentally blocked YouTube around the world for a couple of hours](https://opennet.net/blog/2008/02/pakistan’s-internet-has-a-bad-weekend) in trying to block the site in its country.
 

@@ -12,9 +12,9 @@ In this project you will develop a program that uses a shift cipher that does no
 
 1. Try out [this example project](https://bjc.edc.org/bjc-r/cur/programming/4-internet/3-cybersecurity/3c-caesar-cipher-interactive.html) and consider how you might design your own.
 
-Internally, computers store keyboard characters \(capital and small letters, punctuation marks, space, digits, symbols, and so on\) and others \(like Enter, or Command-Z, or Shift-Ctrl A\) as numbers—binary sequences. The computer industry standard numbering is called Unicode. For most purposes, even programmers and web developers don't need to know what number represents what character, but sometimes we _do _need to specify a character by its number. This table shows the Unicode for some of the keyboard characters.![](https://bjc.edc.org/bjc-r/img/4-internet/img_CaesarCipher/Mary_CharacterTable.jpeg "Unicode Table")
+Internally, computers store keyboard characters \(capital and small letters, punctuation marks, space, digits, symbols, and so on\) and others \(like Enter, or Command-Z, or Shift-Ctrl A\) as numbers—binary sequences. The computer industry standard numbering is called Unicode. For most purposes, even programmers and web developers don't need to know what number represents what character, but sometimes we do need to specify a character by its number. This table shows the Unicode for some of the keyboard characters.![](https://bjc.edc.org/bjc-r/img/4-internet/img_CaesarCipher/Mary_CharacterTable.jpeg "Unicode Table")
 
-The `unicode of`block reports the number that is used for a particular character:![](https://bjc.edc.org/bjc-r/img/4-internet/img_CaesarCipher/SnapUnicode1.png "unicode of \(a\) reporting &apos;97&apos;")
+The `unicode of `block reports the number that is used for a particular character:![](https://bjc.edc.org/bjc-r/img/4-internet/img_CaesarCipher/SnapUnicode1.png "unicode of \(a\) reporting &apos;97&apos;")
 
 The `unicode as letter `block reports the character that a given Unicode number represents:![](https://bjc.edc.org/bjc-r/img/4-internet/img_CaesarCipher/SnapUnicode2.png "unicode \(65\) as letter reporting &apos;A&apos;")
 
@@ -31,7 +31,7 @@ It becomes: _**Mrzewmsr$sj$Rsvqerh}$mw$sr$:$Nyri$5=88**_
 
 1. On paper, use a shift cipher to encrypt and decrypt a short message to get a feel for how this cipher works.
 2. Develop an algorithm for this procedure that works for any input text and any shift value.
-3. Try to code the shift cipher on your own in Snap! using the algorithm you have developed. If you get stuck, look at this page for hints on how to proceed. You can extract the encrypted messages from the Snap_! _interface by right-clicking on the variable that holds the encrypted message and selecting the “Export” option which will download a text file to your computer which then you can copy/paste. ![](https://bjc.edc.org/bjc-r/img/4-internet/img_CaesarCipher/Export.png "export option")
+3. Try to code the shift cipher on your own in Snap! using the algorithm you have developed. If you get stuck, look at this page for hints on how to proceed. You can extract the encrypted messages from the Snap! interface by right-clicking on the variable that holds the encrypted message and selecting the “Export” option which will download a text file to your computer which then you can copy/paste. ![](https://bjc.edc.org/bjc-r/img/4-internet/img_CaesarCipher/Export.png "export option")
 4. Now test your work. Agree with your partner on a shift value for the encryption. Then use your program to encrypt a secret message and e-mail it to your partner. Then let your partner, decrypt your message by using the program to reverse the shift.
 
 #### Take It Further

@@ -8,9 +8,9 @@ If your connection blocks YouTube, [watch the video here](http://scratch.mit.edu
 
 ### The Lack of DNS Security
 
-The hierarchy of the DNS makes the system more efficient; when you visit [snap.berkeley.edu](http://snap.berkeley.edu/), your computer only has to know where to find an _edu _name server. That server only has to know where to find the _berkeley.edu _server. And that server directs your computer to _snap.berkeley.edu_.
+The hierarchy of the DNS makes the system more efficient; when you visit [snap.berkeley.edu](http://snap.berkeley.edu/), your computer only has to know where to find an _edu name server. That server only has to know where to find the berkeley.edu server. And that server directs your computer to snap.berkeley.edu_.
 
-There are millions of such DNS requests every second, and if all of those requests had to begin at the same few root domain servers, those servers would be flooded with too many requests. Instead, DNS servers remember \(cache\) the results of host name queries made to root domain servers, and they provide these _non-authoritative _answers for most requests. However, if the IP address of the site you are requesting _changes _before before the non-authoritative answer is updated, you may be sent to the wrong site. DNS was never intended to be perfectly secure.
+There are millions of such DNS requests every second, and if all of those requests had to begin at the same few root domain servers, those servers would be flooded with too many requests. Instead, DNS servers remember \(cache\) the results of host name queries made to root domain servers, and they provide these non-authoritative answers for most requests. However, if the IP address of the site you are requesting changes before before the non-authoritative answer is updated, you may be sent to the wrong site. DNS was never intended to be perfectly secure.
 
 A perfectly secure Internet could easily end up preventing anonymous publishing. To prevent fraud, it's important to be able to verify the source of a message. But if the source of a message can be verified, the message can't be anonymous. That's problematic both for privacy and for freedom of speech.
 
@@ -20,9 +20,9 @@ Software has _bugs_\(even finished software written by professionals\). And peop
 
 This is especially a problem on smartphones. If you have an Android phone and a security bug is found, Google fixes it, but they don't send the fix directly to your phone. Google sends new system releases to the phone manufacturers, who may take some time to install local modifications available only on their phones. Only after that do the phone manufacturers send the modified Android code to carriers, who also may take some time to install carrier-specific modifications. Security fixes can come more quickly on iOS phones, because Apple can send updates to you directly, no matter which carrier you use.
 
-The general name for programs that try to affect your computer badly is _malware_. One kind of malware is called a _virus_. Computer viruses make copies of themselves \(just as biological viruses do\) and try to spread themselves over the network to other computers. People use _antivirus software _to help prevent these attacks. People also use _firewalls _to limit the kinds of connections \(HTTP requests, incoming mail, etc.\) outsiders can make to your computer. \(Both your computer and your router probably run firewall software.\)
+The general name for programs that try to affect your computer badly is _malware_. One kind of malware is called a _virus_. Computer viruses make copies of themselves \(just as biological viruses do\) and try to spread themselves over the network to other computers. People use \_antivirus software to help prevent these attacks. People also use firewalls to limit the kinds of connections \(HTTP requests, incoming mail, etc.\) outsiders can make to your computer. \(Both your computer and your router probably run firewall software.\)
 
-Another common attack strategy is called_phishing_: an attacker sends you an email that appears to be from some official organization \(such as your bank\) and tricks you into giving information to the attackers \(such as your bank password\).
+Another common attack strategy is called _phishing_: an attacker sends you an email that appears to be from some official organization \(such as your bank\) and tricks you into giving information to the attackers \(such as your bank password\).
 
 ### Distributed Denial of Service \(DDoS\) Attack
 
@@ -40,7 +40,7 @@ A variant is the _Distributed Denial of Service_\(DDoS\) attack, in which the at
 
    3. Eroding the trust and confidence that the general public has in their online privacy and secure online transactions.
 
-   4. All of the above  
+   4. All of the above
 
 
 
