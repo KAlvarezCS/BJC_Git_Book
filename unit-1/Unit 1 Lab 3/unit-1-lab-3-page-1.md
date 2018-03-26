@@ -2,20 +2,19 @@
 
 These are works by artists Josef Albers, Maya Hayuk, Vassily Kandinsky, Atta Kwami, Kazimir Malevich, Carlos Merida, Piet Mondrian, Alma Thomas, and Theo van Doesburg. The styles are different, but all of them are based on polygons or circles.
 
-![](http://bjc.edc.org/bjc-r/img/1-introduction/Josef_Albers's_painting_'Homage_to_the_Square',_1965.jpg "painting-by-Josef-Albers")![](http://bjc.edc.org/bjc-r/img/1-introduction/GraphicArt_img/MayaHayuk1.jpg "Maya Hayuk")![](http://bjc.edc.org/bjc-r/img/1-introduction/1280px-Vassily_Kandinsky,_1926_-_Several_Circles,_Gugg_0910_25.jpg "painting-by-Kandinsky")![](http://bjc.edc.org/bjc-r/img/1-introduction/GraphicArt_img/AttaKwami_bobbo.jpg "Atta Kwami")![](http://bjc.edc.org/bjc-r/img/1-introduction/1024px-Suprematist_Composition_-_Kazimir_Malevich.jpg "painting-by-Malevich")
+!\[\]\([http://bjc.edc.org/bjc-r/img/1-introduction/Josef\_Albers's\_painting\_'Homage\_to\_the\_Square',\_1965.jpg](http://bjc.edc.org/bjc-r/img/1-introduction/Josef_Albers's_painting_'Homage_to_the_Square',_1965.jpg) "painting-by-Josef-Albers"\)![](http://bjc.edc.org/bjc-r/img/1-introduction/GraphicArt_img/MayaHayuk1.jpg "Maya Hayuk")![](http://bjc.edc.org/bjc-r/img/1-introduction/1280px-Vassily_Kandinsky,_1926_-_Several_Circles,_Gugg_0910_25.jpg "painting-by-Kandinsky")![](http://bjc.edc.org/bjc-r/img/1-introduction/GraphicArt_img/AttaKwami_bobbo.jpg "Atta Kwami")![](http://bjc.edc.org/bjc-r/img/1-introduction/1024px-Suprematist_Composition_-_Kazimir_Malevich.jpg "painting-by-Malevich")
 
-![](http://bjc.edc.org/bjc-r/img/1-introduction/GraphicArt_img/CarlosMerida1.jpg "Carlos Merida")![](http://bjc.edc.org/bjc-r/img/1-introduction/Piet_Mondrian_-_Lozenge_Composition_with_Yellow,_Black,_Blue,_Red,_and_Gray_-_1921_-_The_Art_Institute_of_Chicago.jpg "painting-by-Mondrian")![](http://bjc.edc.org/bjc-r/img/1-introduction/GraphicArt_img/AlmaThomas2.jpg "Alma Thomas")![](http://bjc.edc.org/bjc-r/img/1-introduction/Theo_van_Doesburg_Composition_VII_%28the_three_graces%29.jpg "painting-by-van-Doesburg")  
-
+![](http://bjc.edc.org/bjc-r/img/1-introduction/GraphicArt_img/CarlosMerida1.jpg "Carlos Merida")![](http://bjc.edc.org/bjc-r/img/1-introduction/Piet_Mondrian_-_Lozenge_Composition_with_Yellow,_Black,_Blue,_Red,_and_Gray_-_1921_-_The_Art_Institute_of_Chicago.jpg "painting-by-Mondrian")![](http://bjc.edc.org/bjc-r/img/1-introduction/GraphicArt_img/AlmaThomas2.jpg "Alma Thomas")![](http://bjc.edc.org/bjc-r/img/1-introduction/Theo_van_Doesburg_Composition_VII_%28the_three_graces%29.jpg "painting-by-van-Doesburg")
 
 **In this lab, **you'll draw polygons so you can create your own art:  
 ![](http://bjc.edc.org/bjc-r/img/1-introduction/polygon-row.png "regular polygons")  
-![](http://bjc.edc.org/bjc-r/img/1-introduction/GraphicArt_img/ColoredSquareMesh.png "random colored squares on black background")**On this page, **you will explore the basics of drawing a shape in Snap_! _by using the `repeat `block to loop through the same code multiple times.
+![](http://bjc.edc.org/bjc-r/img/1-introduction/GraphicArt_img/ColoredSquareMesh.png "random colored squares on black background")**On this page, **you will explore the basics of drawing a shape in Snap\_! \_by using the `repeat`block to loop through the same code multiple times.
 
 **Vocabulary: Algorithm**
 
-An **algorithm **is a sequence of steps that are usually performed by a computer. In some programming languages, like Snap_!_, you program algorithms by dragging blocks \(individual instructions\) and snapping them together. In other languages, you _type _the instructions. The idea is the same.
+An **algorithm **is a sequence of steps that are usually performed by a computer. In some programming languages, like Snap_!_, you program algorithms by dragging blocks \(individual instructions\) and snapping them together. In other languages, you \_type \_the instructions. The idea is the same.
 
-An algorithm _isn't _a computer program \(it isn't the code\) but rather a _general description of the steps _the computer should follow. The algorithm isn't specific to a particular programming language; once you know the steps that the computer will take \(that is, once you have your algorithm\), you can write the code in the language of your choice.
+An algorithm isn't a computer program \(it isn't the code\) but rather a general description of the steps the computer should follow. The algorithm isn't specific to a particular programming language; once you know the steps that the computer will take \(that is, once you have your algorithm\), you can write the code in the language of your choice.
 
 ### For You To Do
 
@@ -29,7 +28,7 @@ An algorithm _isn't _a computer program \(it isn't the code\) but rather a _gene
    2. Click
       ![](http://bjc.edc.org/bjc-r/img/1-introduction/pen-down.png "pen down"), and then click your script to run it again.
 
-3. ![](http://bjc.edc.org/bjc-r/img/icons/talk-with-your-partner-mini.png "Talk with Your Partner")Analyze _why _that script does what it does.
+3. ![](http://bjc.edc.org/bjc-r/img/icons/talk-with-your-partner-mini.png "Talk with Your Partner")Analyze why that script does what it does.
 
 4. Compare your work with another pair. If your script behaves differently from theirs, check both.
 
@@ -49,7 +48,7 @@ An algorithm _isn't _a computer program \(it isn't the code\) but rather a _gene
 
    6. Use![](http://bjc.edc.org/bjc-r/img/blocks/set-pen-size-to-blank.png "set pen size to \(\)") to set the pen size to something like 4 or 10 or 50. Then draw something.
 
-         To change the pen size you must _click _the `set pen size `block to run it after you've entered the number you want.
+      To change the pen size you must \_click \_the `set pen size `block to run it after you've entered the number you want.
 
 **If There Is Time...**
 

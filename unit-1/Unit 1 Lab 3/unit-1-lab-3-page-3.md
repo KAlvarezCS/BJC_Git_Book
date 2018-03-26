@@ -12,7 +12,7 @@ Make 5 copies of the script and modify those copies so that they make pinwheel d
 
 ![](http://bjc.edc.org/bjc-r/img/1-introduction/Blockswith-Inputs_img/3.png "pinwheel with 3 branches")![](http://bjc.edc.org/bjc-r/img/1-introduction/Blockswith-Inputs_img/4.png "pinwheel with 4 branches")![](http://bjc.edc.org/bjc-r/img/1-introduction/Blockswith-Inputs_img/5.png "pinwheel with 5 branches")![](http://bjc.edc.org/bjc-r/img/1-introduction/Blockswith-Inputs_img/6.png "pinwheel with 6 branches")![](http://bjc.edc.org/bjc-r/img/1-introduction/Blockswith-Inputs_img/12.png "pinwheel with 12 branches")
 
-The scripts are essentially all the same; only the \_input values \_change. Instead of having many separate scripts, you can make one more general script that will draw all such designs .Your `pinwheel`block will need an input to specify how many branches you want, ![](http://bjc.edc.org/bjc-r/img/1-introduction/pinwheel-block.png "pinwheel-block")just as the `go to`block has inputs to specify x and y values![](http://bjc.edc.org/bjc-r/img/1-introduction/go-to-empty-inputs.png "go-to-empty-inputs").
+The scripts are essentially all the same; only the input values change. Instead of having many separate scripts, you can make one more general script that will draw all such designs .Your `pinwheel `block will need an input to specify how many branches you want, ![](http://bjc.edc.org/bjc-r/img/1-introduction/pinwheel-block.png "pinwheel-block")just as the `go to `block has inputs to specify x and y values![](http://bjc.edc.org/bjc-r/img/1-introduction/go-to-empty-inputs.png "go-to-empty-inputs").
 
 ![](/assets/pair_programming.png)
 
@@ -40,7 +40,7 @@ The scripts are essentially all the same; only the \_input values \_change. Inst
 
 3. **Drag in the blocks you need, and use the new input.**
 
-   * Here, drag one of your pinwheel scripts into the Block Editor and snap it to the `pinwheel`block.
+   * Here, drag one of your pinwheel scripts into the Block Editor and snap it to the `pinwheel `block.
    * We use the word "input" for two different but related things:
 
    * 1. The input name, such as number of branches , which is set in the block definition. This is called a **parameter **\(or formal parameter\).

@@ -1,6 +1,6 @@
 # Sprite Following the Mouse
 
-**In this lab, **you will program _two _sprites. One sprite will follow your mouse. The other sprite will chase the first. When they meet, they will have a short conversation
+**In this lab, **you will program two sprites. One sprite will follow your mouse. The other sprite will chase the first. When they meet, they will have a short conversation
 
 .![](http://bjc.edc.org/bjc-r/img/1-introduction/U1ImageVideoAddendum_img/U1L5-PuppyChase.gif)
 
@@ -12,7 +12,7 @@
 2. Read and think about this script before you build it. What do you expect it to do? ![](/assets/talk_with_partner.png)![](http://bjc.edc.org/bjc-r/img/1-introduction/follow-that-mouse.png "Follow That Mouse Script")![](http://bjc.edc.org/bjc-r/img/blocks/mouse-x.png "Mouse X Reporter") and ![](http://bjc.edc.org/bjc-r/img/blocks/mouse-y.png "Mouse Y Reporter") report the mouse's location on the stage. They are in the Sensing palette.
 3. Now build the script and run it. Move your mouse around the stage while the program is running.
 
-   1. The block at the top of the script is called a **hat **block. Its shape emphasizes that it can be used only at the _beginning _of a script. Hat blocks don't say _what _the script should do; they say _when _it should do it. Hat blocks say what **event **should start the script running. In this case, the script starts when the green flag button is clicked. To _stop _this script, click the red stop sign:![](http://bjc.edc.org/bjc-r/img/1-introduction/stop_button.png "stop button")
+   1. The block at the top of the script is called a **hat **block. Its shape emphasizes that it can be used only at the \_beginning of a script. Hat blocks don't say what the script should do; they say when it should do it. Hat blocks say what **event **should start the script running. In this case, the script starts when the green flag button is clicked. To stop this script, click the red stop sign:![](http://bjc.edc.org/bjc-r/img/1-introduction/stop_button.png "stop button")
 
 4. ![](/assets/twoPeopleThinking.png)Does the program work the way you expected?
 
@@ -27,6 +27,6 @@
    * Sprite always follows your mouse when you move your mouse around.
    * Sprite\(2\) stays in one place, but always points toward Sprite.
 
-Both sprites' scripts use `When`![](http://bjc.edc.org/bjc-r/img/1-introduction/green-flag_button.png "green-flag button") `clicked`, so _both _scripts run when ![](http://bjc.edc.org/bjc-r/img/1-introduction/green-flag_button.png "green-flag button") is clicked.  
+Both sprites' scripts use `When`![](http://bjc.edc.org/bjc-r/img/1-introduction/green-flag_button.png "green-flag button") `clicked`, so both scripts run when ![](http://bjc.edc.org/bjc-r/img/1-introduction/green-flag_button.png "green-flag button") is clicked.  
 ![](/assets/save.png)
 

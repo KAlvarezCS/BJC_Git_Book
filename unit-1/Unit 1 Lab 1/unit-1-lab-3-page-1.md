@@ -1,8 +1,8 @@
 # Your Image In The Cloud
 
-**In this lab,**you will learn about your digital privacy.
+**In this lab, **you will learn about your digital privacy.
 
-**On this page,**you will consider what information is available online about you and reflect on your online data sharing habits.
+**On this page, **you will consider what information is available online about you and reflect on your online data sharing habits.
 
 #### For You To Do ![](/assets/talk_with_partner.png)
 

@@ -19,37 +19,27 @@ You can use your _general_-purpose pinwheel procedure to create other, simpler _
 
       **Vocabular**y
 
-      Using a block you've already written to help write another block is an example of **abstraction**. Abstraction is arguably the most important idea in computer science, but it doesn't have a simple definition. Here, abstraction means using a more general block \(`pinwheel`\) to create two more specific blocks \(`asterisk `and `polygon`\). There are other kinds of abstraction too, and we'll point them out as they come up. In the meantime, if you find yourself wanting to copy code from one place to another, consider _abstracting _by writing a general block to use in both places instead.
+      Using a block you've already written to help write another block is an example of **abstraction**. Abstraction is arguably the most important idea in computer science, but it doesn't have a simple definition. Here, abstraction means using a more general block \(`pinwheel`\) to create two more specific blocks \(`asterisk `and `polygon`\). There are other kinds of abstraction too, and we'll point them out as they come up. In the meantime, if you find yourself wanting to copy code from one place to another, consider \_abstracting \_by writing a general block to use in both places instead.
 
-3. If you look inside of `pinwheel `and see how you're using it in `polygon`, you'll see that there are steps that you don't really need for the case of a polygon. Write another version of `polygon `built directly out of primitive blocks \(`move`, `turn `and so on\). How simple can you make it?
+3. If you look inside of `pinwheel `and see how you're using it in `polygon`, you'll see that there are steps that you don't really need for the case of a polygon. Write another version of `polygon `built directly out of primitive blocks \(`move`, `turn`and so on\). How simple can you make it?
 
 ![](/assets/save.png)
 
 #### If There Is Time...
 
-1. Use your `pinwheel `block code one last time to create a `circle `block that accepts one input for the size.
+1. Use your `pinwheel `block code one last time to create a `circle`block that accepts one input for the size.
 2. Use the `random `block together with `set pen color `and `set pen size `to draw a variety of shapes.
- 
+
    ![](http://bjc.edc.org/bjc-r/img/1-introduction/assorted-pinwheels.png "assortment of pinwheels")
-
-
 
 ##### Take It Further
 
 1. Challenge:** **Create a script that draws a blue square of size 100 and then draws a red circle that fits perfectly inside it.
    ![](http://bjc.edc.org/bjc-r/img/1-introduction/red-circle-in-blue-square.png "red circle in blue square")
-2. In each of the puzzles below you will need to write code that will allow a car to travel from its starting point \(A\) to its final destination. Click on each of the images to load each Snap_! _project.
+2. In each of the puzzles below you will need to write code that will allow a car to travel from its starting point \(A\) to its final destination. Click on each of the images to load each Snap\_! \_project.
    [![](http://bjc.edc.org/bjc-r/img/1-introduction/PolygonalRacetracks_img/ArchTess1.png "Triangle and square tesselation path")](http://snap.berkeley.edu/snapsource/snap.html#open:http://bjc.edc.org/bjc-r/prog/1-introduction/U1L6-archimedean-racetrack1-student.xml)
    [![](http://bjc.edc.org/bjc-r/img/1-introduction/PolygonalRacetracks_img/ArchTess2.png "Triangle, square and hexagon tesselation path ")](http://snap.berkeley.edu/snapsource/snap.html#open:http://bjc.edc.org/bjc-r/prog/1-introduction/U1L6-archimedean-racetrack2-student.xml)
    [![](http://bjc.edc.org/bjc-r/img/1-introduction/PolygonalRacetracks_img/ArchTess3.png "Octagon and square tesselation path")](http://snap.berkeley.edu/snapsource/snap.html#open:http://bjc.edc.org/bjc-r/prog/1-introduction/U1L6-archimedean-racetrack3-student.xml)
-
-
-
-
-
-
-
-
 
 
 

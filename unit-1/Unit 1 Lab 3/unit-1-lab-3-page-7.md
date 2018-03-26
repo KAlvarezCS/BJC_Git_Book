@@ -24,11 +24,11 @@
 
 #### Take It Further
 
-1. Look up the works of artists like [Josef Albers](https://www.google.com/search?q=Josef+Albers&tbm=isch), [Maya Hayuk](https://www.google.com/search?q=Maya+Hayuk&tbm=isch) , [Vassily Kandinsky](https://www.google.com/search?q=Vassily+Kandinsky&tbm=isch), [Atta Kwami](https://www.google.com/search?q=Atta+Kwami&tbm=isch), [Kazimir Malevich](https://www.google.com/search?q=Kazimir+Malevich&tbm=isch), [Carlos Merida](https://www.google.com/search?q=Carlos+Merida&tbm=isch), [Piet Mondrian](https://www.google.com/search?q=Piet+Mondrian&tbm=isch), [Alma Thomas](https://www.google.com/search?q=Alma+Thomas&tbm=isch) , and [Theo van Doesburg](https://www.google.com/search?q=Theo+van+Doesburg&tbm=isch) to get inspiration to create new art in your own style. ![](http://bjc.edc.org/bjc-r/img/1-introduction/Josef_Albers's_painting_'Homage_to_the_Square',_1965.jpg "painting-by-Josef-Albers")![](http://bjc.edc.org/bjc-r/img/1-introduction/GraphicArt_img/MayaHayuk1.jpg "Maya Hayuk")![](http://bjc.edc.org/bjc-r/img/1-introduction/1280px-Vassily_Kandinsky,_1926_-_Several_Circles,_Gugg_0910_25.jpg "painting-by-Kandinsky")![](http://bjc.edc.org/bjc-r/img/1-introduction/GraphicArt_img/AttaKwami_bobbo.jpg "Atta Kwami")
+1. Look up the works of artists like [Josef Albers](https://www.google.com/search?q=Josef+Albers&tbm=isch), [Maya Hayuk](https://www.google.com/search?q=Maya+Hayuk&tbm=isch) , [Vassily Kandinsky](https://www.google.com/search?q=Vassily+Kandinsky&tbm=isch), [Atta Kwami](https://www.google.com/search?q=Atta+Kwami&tbm=isch), [Kazimir Malevich](https://www.google.com/search?q=Kazimir+Malevich&tbm=isch), [Carlos Merida](https://www.google.com/search?q=Carlos+Merida&tbm=isch), [Piet Mondrian](https://www.google.com/search?q=Piet+Mondrian&tbm=isch), [Alma Thomas](https://www.google.com/search?q=Alma+Thomas&tbm=isch) , and [Theo van Doesburg](https://www.google.com/search?q=Theo+van+Doesburg&tbm=isch) to get inspiration to create new art in your own style. !\[\]\([http://bjc.edc.org/bjc-r/img/1-introduction/Josef\_Albers's\_painting\_'Homage\_to\_the\_Square',\_1965.jpg](http://bjc.edc.org/bjc-r/img/1-introduction/Josef_Albers's_painting_'Homage_to_the_Square',_1965.jpg) "painting-by-Josef-Albers"\)![](http://bjc.edc.org/bjc-r/img/1-introduction/GraphicArt_img/MayaHayuk1.jpg "Maya Hayuk")![](http://bjc.edc.org/bjc-r/img/1-introduction/1280px-Vassily_Kandinsky,_1926_-_Several_Circles,_Gugg_0910_25.jpg "painting-by-Kandinsky")![](http://bjc.edc.org/bjc-r/img/1-introduction/GraphicArt_img/AttaKwami_bobbo.jpg "Atta Kwami")
 
    ![](http://bjc.edc.org/bjc-r/img/1-introduction/1024px-Suprematist_Composition_-_Kazimir_Malevich.jpg "painting-by-Malevich")![](http://bjc.edc.org/bjc-r/img/1-introduction/GraphicArt_img/CarlosMerida1.jpg "Carlos Merida")![](http://bjc.edc.org/bjc-r/img/1-introduction/Piet_Mondrian_-_Lozenge_Composition_with_Yellow,_Black,_Blue,_Red,_and_Gray_-_1921_-_The_Art_Institute_of_Chicago.jpg "painting-by-Mondrian")![](http://bjc.edc.org/bjc-r/img/1-introduction/GraphicArt_img/AlmaThomas2.jpg "Alma Thomas")![](http://bjc.edc.org/bjc-r/img/1-introduction/Theo_van_Doesburg_Composition_VII_%28the_three_graces%29.jpg "painting-by-van-Doesburg")
 
-2. Below are some other ideas that use randomness, color and other artistic elements. Create your own art that incorporates randomness in some way. Here is one way you can add randomness to your art:![](http://bjc.edc.org/bjc-r/img/1-introduction/GraphicArt_img/randomArtCode.png "Code for random art")  
+2. Below are some other ideas that use randomness, color and other artistic elements. Create your own art that incorporates randomness in some way. Here is one way you can add randomness to your art:![](http://bjc.edc.org/bjc-r/img/1-introduction/GraphicArt_img/randomArtCode.png "Code for random art")
 
 3. You can modify your polygon block to create stars that you can use in your art work.![](http://bjc.edc.org/bjc-r/img/1-introduction/GraphicArt_img/starCode.png "Code for a star")This script will only create stars with an odd number points. Why?
 
@@ -44,9 +44,6 @@
          block. Explain the results.
       4. How many kinds of eight-pointed stars can you make?
       5. Work with your partner to come up with a general theory of stars, so you could predict how many kinds of 98-pointed stars you can make without trying them all.
-
-  
-
 
 
 

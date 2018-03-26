@@ -16,9 +16,9 @@
 3. ![](http://bjc.edc.org/bjc-r/img/icons/talk-with-your-partner.png "Talk with Your Partner")
 
    1. What does each reporter block report? ![](http://bjc.edc.org/bjc-r/img/1-introduction/who.png "who block")![](http://bjc.edc.org/bjc-r/img/1-introduction/does-what.png "does what block")![](http://bjc.edc.org/bjc-r/img/1-introduction/gossip.png "gossip block")  
-      1. **Vocabulary** Here's a piece of the`who`block:
+      1. **Vocabulary** Here's a piece of the `who `block:
 
-      ![](http://bjc.edc.org/bjc-r/img/1-introduction/composition.png "item \(random\) of \(list ....\)")In this expression, the value reported by the `list`block is used as an input to the `item`block. Combining two reporters in this way is called **composition **of functions. \(Function \_is another name for a reporter block.\)
+      ![](http://bjc.edc.org/bjc-r/img/1-introduction/composition.png "item \(random\) of \(list ....\)")In this expression, the value reported by the `list `block is used as an input to the `item`block. Combining two reporters in this way is called **composition **of functions. \(Function \_is another name for a reporter block.\)
 
    2. What happens when you click this script \(labeled D\)?![](http://bjc.edc.org/bjc-r/img/1-introduction/say-broadcast.png "say gossip broadcast your turn")
 
@@ -34,7 +34,7 @@ Just as you created an [Alonzo costume](http://bjc.edc.org/bjc-r/cur/programming
 
 2. Click the "Scripts" tab see the code that controls Sprite\(2\). Perform each experiment \(A-C\) several times.
 
-3. ![](/assets/twoPeopleThinking.png)Discuss how`who2`compares to`who`and how`gossip2`compares to`gossip`.
+3. ![](/assets/twoPeopleThinking.png)Discuss how `who2 `compares  to `who `and  how `gossip2 `compares  to `gossip`.
 
 ![](/assets/save.png)
 

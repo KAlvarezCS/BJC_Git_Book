@@ -2,9 +2,9 @@
 
 ![](/assets/pair_programming.png)Your Click Alonzo script runs _when Alonzo is clicked_. **On this page,**you'll make a second script that welcomes the player _when the green flag \(_![](http://bjc.edc.org/bjc-r/img/1-introduction/green-flag_button.png "green-flag button")_\) is clicked_.
 
-![](http://bjc.edc.org/bjc-r/img/1-introduction/hat-block.png "a yellow round-topped hat block that says When") Blocks that look like this can be used to detect an **event **such as clicking on the sprite, pressing a key, or clicking the green flag button. They tell the script to start when that event occurs. Because these blocks can sit only on top of a script \(as a way to start the script\), Snap\_!\_programmers call them "hat blocks."
+![](http://bjc.edc.org/bjc-r/img/1-introduction/hat-block.png "a yellow round-topped hat block that says When") Blocks that look like this can be used to detect an **event **such as clicking on the sprite, pressing a key, or clicking the green flag button. They tell the script to start when that event occurs. Because these blocks can sit only on top of a script \(as a way to start the script\), Snap! programmers call them "hat blocks."
 
-Clicking the green flag \(![](http://bjc.edc.org/bjc-r/img/1-introduction/green-flag_button.png "green-flag button")\) starts all scripts that begin with the`when green flag is clicked`hat block. You can stop all running scripts by clicking the red stop sign \(![](http://bjc.edc.org/bjc-r/img/1-introduction/stop_button.png "stop button")\) at the top right of the Snap\_!\_window.
+Clicking the green flag \(![](http://bjc.edc.org/bjc-r/img/1-introduction/green-flag_button.png "green-flag button")\) starts all scripts that begin with the `when green flag is clicked `hat block. You can stop all running scripts by clicking the red stop sign \(![](http://bjc.edc.org/bjc-r/img/1-introduction/stop_button.png "stop button")\) at the top right of the Snap! window.
 
 ## For You To Do
 
