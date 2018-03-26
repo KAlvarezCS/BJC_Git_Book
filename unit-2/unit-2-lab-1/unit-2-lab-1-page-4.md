@@ -2,7 +2,7 @@
 
 Often you will find a use for code that you've already built in some other project.
 
-**On this page, **you will transfer your `greet player`script into your Number Guessing game so you can use it there.
+**On this page, **you will transfer your `greet player `script into your Number Guessing game so you can use it there.
 
 #### For You To Do
 
@@ -14,7 +14,7 @@ Often you will find a use for code that you've already built in some other proje
 
    2. **Select only the block\(s\) you wish to export **\(in this case, just `greet player`\), and click "OK." An XML file will download.
 
-3. Now, open your U2L1-NumberGuessing project, and import your `greet player`block. **Importing Blocks**
+3. Now, open your U2L1-NumberGuessing project, and import your `greet player `block. **Importing Blocks**
 
    1. **Choose "Import..." **from the Snap! file menu \(![](http://bjc.edc.org/bjc-r/img/1-introduction/file_button.png "File menu button")\).
 

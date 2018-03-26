@@ -6,7 +6,7 @@
 
 Computers and the Internet support the free exchange of media, but they can also be used to prevent it. Many digital media are distributed in encrypted form. Purchasers \(or their friends\) can't play the media unless the software that comes with them is used to decrypt them, and the software will refuse to do so unless certain conditions are met. These conditions can be anything the publisher wants. Maybe a file can only be played on a particular computer. Maybe there can't be two copies with the same serial number. \(The software uses the Internet to connect with a DRM server to check this.\) Maybe the file times out on a particular date and can never be used again.
 
-DRM software is a big change in the social contract. Remember, the idea of copyright is that eventually it expires, and the work is in the public domain, freely copyable by anyone. But DRM allows publishers to have it both ways: they get copyright protection during the time when a work is most popular,_and_they get DRM protection forever. The publisher's control over the material never ends.
+DRM software is a big change in the social contract. Remember, the idea of copyright is that eventually it expires, and the work is in the public domain, freely copyable by anyone. But DRM allows publishers to have it both ways: they get copyright protection during the time when a work is most popular, and they get DRM protection forever. The publisher's control over the material never ends.
 
 ### The Digital Millennium Copyright Act
 
@@ -27,8 +27,6 @@ If you look at the fine print on the back of a DVD case, you'll probably find so
 The purpose of this system is to allow film companies to sell DVDs cheaply in poor countries, but charge a lot more in rich countries. Without region coding, people would import DVDs from the poor countries and resell them here. Region coding can also be used to allow different versions of a film in different regions to account for different censorship rules, either about political views or about sexuality.
 
 This region coding system is protected by the DMCA, although in practice it is widely subverted, since DVD encoding was already broken before the DMCA. Arguments have been made that region coding violates free-trade treaties that disallow most restrictions on exporting goods from one country to another. It would definitely be a treaty violation if the US government had invented region coding, but since it's a creation of private companies, the question has not been settled. But the DMCA itself can be seen as the government enforcing the region coding.
-
-
 
 #### For You To Do...
 

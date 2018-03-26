@@ -28,8 +28,9 @@
 
       ![](http://bjc.edc.org/bjc-r/img/icons/talk-with-your-partner.png "Talk with Your Partner") Where in the code should these conditionals go?
 
-   2. **Test and debug.**
+   2. **Test and debug.**  
       Play your game enough to see if it works the way you want. It should:
+
       * ask the player to guess its secret number;
       * say whether a wrong guess is too big or too small, and then ask again;
       * congratulate the player for a correct answer.

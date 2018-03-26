@@ -1,21 +1,21 @@
 # Solving a Word Puzzle
 
-**On this page**, you will solve a crossword puzzle by combining predicates using the`and`block. You will then use the resulting predicates with`keep`to find words with specific characteristics.
+**On this page**, you will solve a crossword puzzle by combining predicates using the `and `block. You will then use the resulting predicates with `keep `to find words with specific characteristics.
 
 ![](http://bjc.edc.org/bjc-r/img/2-complexity/keep-example-5.png "keeping words with 6 letters with 1st letter r and 3rd letter b")
 
 #### For You To Do
 
 1. [Click here to load. Save to your Snap! account.](http://snap.berkeley.edu/snapsource/snap.html#open:http://bjc.edc.org/bjc-r/prog/2-complexity/U2L3-WordPuzzleSolver.xml) Run imports words list to initialize the words list variable.
-2. You have used the ![](http://bjc.edc.org/bjc-r/img/blocks/length-of-blank-operator.png "length of \(\)") block in the Operators palette together with`= `and `keep `to find words of a certain length in the words list.
+2. You have used the ![](http://bjc.edc.org/bjc-r/img/blocks/length-of-blank-operator.png "length of \(\)") block in the Operators palette together with`=`and `keep `to find words of a certain length in the words list.
 
    1. Reassemble that script so that you can find all the words that have 8 letters.
    2. Find all the words that have 11 letters.
-   3. You now have an _expression _that you can edit to test any word for any number of letters. This is a useful tool to have. Create and test a predicate _block _that takes a word and number as input and works like this:![](http://bjc.edc.org/bjc-r/img/2-complexity/does-orange-6-letters-true.png "does \(orange\) have \(6\) letters? reporting true")
+   3. You now have an \_expression \_that you can edit to test any word for any number of letters. This is a useful tool to have. Create and test a predicate \_block \_that takes a word and number as input and works like this:![](http://bjc.edc.org/bjc-r/img/2-complexity/does-orange-6-letters-true.png "does \(orange\) have \(6\) letters? reporting true")
 
       ![](http://bjc.edc.org/bjc-r/img/2-complexity/does-apple-7-letters-false.png "does \(apple\) have \(7\) letters? reporting false")
 
-3. Build an _expression _using the ![](http://bjc.edc.org/bjc-r/img/blocks/letter-blank-of-blank.png "letter \(\) of \(\)") block with `= `and `keep `to find words that have certain letters in certain places.
+3. Build an \_expression \_using the ![](http://bjc.edc.org/bjc-r/img/blocks/letter-blank-of-blank.png "letter \(\) of \(\)") block with `=`and `keep `to find words that have certain letters in certain places.
 
    1. Use it to find all the words that begin with the letter i.
 

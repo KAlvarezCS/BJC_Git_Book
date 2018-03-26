@@ -1,6 +1,6 @@
 # Developing a Number Guessing game with Script Variables
 
-**In this lab,**you will use two kinds of variables to store information:
+**In this lab, **you will use two kinds of variables to store information:
 
 * _Script variables _\(a kind of local variable\) that can be used only within a single script, and
 * Global variables that can be set, used, or changed anywhere in the program.
@@ -48,7 +48,7 @@ Setting the initial value of a variable is known as **initializing **the variabl
 
 You'll want the computer to ask players to guess again and again until they get it right. To do that, you will use the `repeat until `block. `Repeat until `is a [loop](http://bjc.edc.org/bjc-r/cur/programming/1-introduction/3-drawing/6-the-for-block.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment) \(just like `repeat`,`forever`, and `for`\) that **repeats until a certain **_**condition **_**is met**. In this case, the code should repeat until the player's answer equals the secret number.
 
-`Repeat until `is a _conditional \_block \(like _`if`_\). Conditionals make choices based on a **condition **in the form of a **Boolean value **\(either_![](http://bjc.edc.org/bjc-r/img/blocks/true.png "true")_ or _![](http://bjc.edc.org/bjc-r/img/blocks/false.png "false")_\). The condition is checked by a predicate_, a true/false question such as ![](http://bjc.edc.org/bjc-r/img/2-complexity/a-gt-7.png "a&amp;gt; 7"). Predicates always report Boolean values. And they fit into hexagonal input slots, such as in ![](http://bjc.edc.org/bjc-r/img/blocks/if.png "if block") and ![](http://bjc.edc.org/bjc-r/img/blocks/repeat-until.png "repeat until"). Predicates help conditionals _decide when to do something_.
+`Repeat until `is a _conditional block \(like _`if`_\). Conditionals make choices based on a **condition **in the form of a **Boolean value **\(either_![](http://bjc.edc.org/bjc-r/img/blocks/true.png "true")_ or _![](http://bjc.edc.org/bjc-r/img/blocks/false.png "false")_\). The condition is checked by a predicate_, a true/false question such as ![](http://bjc.edc.org/bjc-r/img/2-complexity/a-gt-7.png "a&amp;gt; 7"). Predicates always report Boolean values. And they fit into hexagonal input slots, such as in ![](http://bjc.edc.org/bjc-r/img/blocks/if.png "if block") and ![](http://bjc.edc.org/bjc-r/img/blocks/repeat-until.png "repeat until"). Predicates help conditionals _decide when to do something_.
 
 **Vocabulary: Boolean**
 
@@ -58,7 +58,7 @@ The word Boolean is capitalized because it's named after a person, George Boole,
 
 #### For You To Do
 
-1. Use `repeat until `to `ask `the player to guess the secret number until their `answer `equals the `secret number`.
+1. Use `repeat until `to  `ask`the player to guess the secret number until their `answer `equals the `secret number`.
 
    1. The ![](http://bjc.edc.org/bjc-r/img/blocks/ask-empty.png "ask \(\) and wait") and ![](http://bjc.edc.org/bjc-r/img/blocks/answer.png "answer") blocks go together. If you use `ask `to ask a question, the user's answer will be reported by `answer`.
 

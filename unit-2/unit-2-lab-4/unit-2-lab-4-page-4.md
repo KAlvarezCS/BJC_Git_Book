@@ -6,7 +6,7 @@
 
 **On this first page,**you display a Tic-Tac-Toe board and let two human players enter moves.
 
-One approach to this problem uses \_multiple sprites \_to make an "active" Tic-Tac-Toe board, in which each square is actually a separate sprite. Each sprite knows which square it's in, because once the board is set up, the sprites never move. You click in a square, and the sprite that you clicked on changes its costume to display the move. It doesn't have to compute the square number based on the mouse coordinates.
+One approach to this problem uses multiple sprites to make an "active" Tic-Tac-Toe board, in which each square is actually a separate sprite. Each sprite knows which square it's in, because once the board is set up, the sprites never move. You click in a square, and the sprite that you clicked on changes its costume to display the move. It doesn't have to compute the square number based on the mouse coordinates.
 
 #### For You To Do
 
@@ -15,7 +15,7 @@ One approach to this problem uses \_multiple sprites \_to make an "active" Tic-T
 
 3. You will be using the **clone** feature in Snap.
 
-   1. Why "under control of your program"? It's possible to make a copy of a sprite by hand; right-click on the sprite's icon in the sprite corral and choose "Duplicate." That's useful if you only want one copy, but in this project you're going to need _nine _copies, one for each square of the Tic-Tac-Toe board. So you'd like to say something along the lines of ![](http://bjc.edc.org/bjc-r/img/2-complexity/9-copies.png "repeat 9 \[create a clone of myself\]")
+   1. Why "under control of your program"? It's possible to make a copy of a sprite by hand; right-click on the sprite's icon in the sprite corral and choose "Duplicate." That's useful if you only want one copy, but in this project you're going to need nine copies, one for each square of the Tic-Tac-Toe board. So you'd like to say something along the lines of ![](http://bjc.edc.org/bjc-r/img/2-complexity/9-copies.png "repeat 9 \[create a clone of myself\]")
 
       The actual code in the project will be slightly more than this, but this is the central idea.
 
@@ -29,13 +29,13 @@ One approach to this problem uses \_multiple sprites \_to make an "active" Tic-T
 
    3. So the ideas is that you write your program completely, then make whatever clones you need.
 
-4. In the starter project is this demonstration script: ![](http://bjc.edc.org/bjc-r/img/2-complexity/TTT1_img/WhenIamClicked.png "when I am clicked, create a clone of myself, glide \(1\) secs to x: \(random...\) y: \(random...\)")You're going to use this script _right now _to learn more about clones, but it isn't going to be part of _the finished project. **Read **_the script together with your partner and talk over what you think will happen when you click on the sprite. Then click on the sprite on the stage and compare what happens with what you expected.
+4. In the starter project is this demonstration script: ![](http://bjc.edc.org/bjc-r/img/2-complexity/TTT1_img/WhenIamClicked.png "when I am clicked, create a clone of myself, glide \(1\) secs to x: \(random...\) y: \(random...\)")You're going to use this script \_right now \_to learn more about clones, but it isn't going to be part of \_the finished project. **Read **\_the script together with your partner and talk over what you think will happen when you click on the sprite. Then click on the sprite on the stage and compare what happens with what you expected.
 
-   1. Notice that is the clicked sprite that moves to a new random position after cloning itself. \(You can tell becuase it's the one that says "You clicked me."\)
+   1. Notice that is the clicked sprite that moves to a new random position after cloning itself. \(You can tell because it's the one that says "You clicked me."\)
 
    2. Note that both copies are _active_ sprites. Both are clickable \(try it\) and draggable \(try that too\).
 
-   3. The `create a clone `block takes an input because it can copy _any _sprite, but in this project there's only one "starter" sprite, so you can use `myself `or `Square `as the input.
+   3. The `create a clone `block takes an input because it can copy any sprite, but in this project there's only one "starter" sprite, so you can use `myself `or  `Square `as the input.
 
 The next script in the starter project is this:
 
@@ -43,15 +43,13 @@ The next script in the starter project is this:
 
 The block is called `delete this clone `rather than `delete this sprite `because it works only for clones. So when you click the green flag, the original sprite and all its clones will run the script, but only the clones will be deleted. There will then be one sprite left on the stage. \(Clicking the stop sign automatically deletes clones, but this script is insurance in case you run the program and then run it again without clicking stop first.\)
 
-
-
 #### For You To Do
 
-1. Delete the `when I am clicked `script from problem 3. It was just for demonstration, and shouldn't be in the actual project. \(You'll make your own different one soon.\) Also, at the bottom of the scripting area, there's an additional `when `⚑ `clicked `block near, but separate from, the script just below it. They're separated because this script isn't part of the demonstration in problem 2, but it _is _part of the Tic-Tac-Toe game, so click the two pieces together now.
+1. Delete the `when I am clicked `script from problem 3. It was just for demonstration, and shouldn't be in the actual project. \(You'll make your own different one soon.\) Also, at the bottom of the scripting area, there's an additional `when`⚑ `clicked `block near, but separate from, the script just below it. They're separated because this script isn't part of the demonstration in problem 2, but it is part of the Tic-Tac-Toe game, so click the two pieces together now.
 
    1. Read that script and notice:
 
-      1. The `wait `block is needed to ensure that the _other _`when `⚑ `clicked `script has time to delete old clones before we make new ones.
+      1. The `wait `block is needed to ensure that the _other _`when`⚑ `clicked `script has time to delete old clones before we make new ones.
 
       2. `makeBoard `is an empty script. You're going to write it in the next problem.
 
@@ -77,9 +75,7 @@ The block is called `delete this clone `rather than `delete this sprite `because
 
 4. ![](/assets/save_use_later.png)
 
-This project hints at two important modern ideas in computer science. One is**object oriented programming**: Instead of a single sequence of instructions, the program has several_independent_objects \(also called "agents" or "actors"\), each of which has its own behavior. In this project, you can only click on one sprite at a time, and it then carries out a very quick task \(changing costume\) before you click another sprite. But a more complicated program might have one sprite send a_message_to another sprite, which would respond with its own behavior, while the first sprite continues with its own script.
+This project hints at two important modern ideas in computer science. One is **object oriented programming**: Instead of a single sequence of instructions, the program has several\_independent\_objects \(also called "agents" or "actors"\), each of which has its own behavior. In this project, you can only click on one sprite at a time, and it then carries out a very quick task \(changing costume\) before you click another sprite. But a more complicated program might have one sprite send a\_message\_to another sprite, which would respond with its own behavior, while the first sprite continues with its own script.
 
-The other idea is **parallelism **or **distributed computing**. Your project is running on a single computer, and the apparent ability of sprites to run simultaneously is an illusion provided by Snap_!_, which runs one script for a little while, then switches to a different script, and so on, then updates the display, then continues the first script. But you _could _have nine separate computers, one for each sprite. That would be overkill for this small project, but large web servers such as Google or Twitter have many thousands of computers all cooperating to handle the large amounts of data they require.
-
-
+The other idea is **parallelism **or **distributed computing**. Your project is running on a single computer, and the apparent ability of sprites to run simultaneously is an illusion provided by Snap_!_, which runs one script for a little while, then switches to a different script, and so on, then updates the display, then continues the first script. But you \_could \_have nine separate computers, one for each sprite. That would be overkill for this small project, but large web servers such as Google or Twitter have many thousands of computers all cooperating to handle the large amounts of data they require.
 

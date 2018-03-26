@@ -20,8 +20,7 @@ Betsy and Alphie are still using coordinate lists to draw letters. ![](http://bj
    1. **Click the Stage button**
       below the actual stage. 
       ![](http://bjc.edc.org/bjc-r/img/2-complexity/stage-button.png "stage button in sprite corral")
-   2. **Click the "Backgrounds" tab**
-      near the top of the window. 
+   2. **Click the "Backgrounds" tab **near the top of the window. 
       ![](http://bjc.edc.org/bjc-r/img/2-complexity/backgrounds.png "backgrounds tab") 
    3. **Select or import a stage background.**
       In this project, you will find two imported backgrounds:
@@ -49,8 +48,7 @@ Betsy and Alphie are still using coordinate lists to draw letters. ![](http://bj
 
 Alphie, Betsy, and Gamal develop code to implement their ideas.
 
-![](http://bjc.edc.org/bjc-r/img/2-complexity/U2ImageVideoAddendum_img/drawEAnimation.gif)  
-
+![](http://bjc.edc.org/bjc-r/img/2-complexity/U2ImageVideoAddendum_img/drawEAnimation.gif)
 
 #### For You To Do
 
@@ -71,8 +69,9 @@ For the purpose of entering points interactively, the approach on this page is a
 * Even after you tell the sprite to stop following the mouse, the "when I am clicked" script is still ready to run, so if you click directly on the sprite, it will still add points to the list. You may not want that.
 * The list of points is always kept in the same global variable. So it's messy to create lists for several different letters.
 
-1. Think, and see if you can find your own way to solve one or both of these problems.
-2. Here is [an alternative approach](http://bjc.edc.org/bjc-r/cur/programming/2-complexity/old/5-click-points.html) that contains a new idea that you might like. There are simpler solutions than this, but the idea behind this slightly more complicated code is a useful one.
+* Think, and see if you can find your own way to solve one or both of these problems.
+
+* Here is [an alternative approach](http://bjc.edc.org/bjc-r/cur/programming/2-complexity/old/5-click-points.html) that contains a new idea that you might like. There are simpler solutions than this, but the idea behind this slightly more complicated code is a useful one.
 
 
 

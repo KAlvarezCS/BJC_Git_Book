@@ -18,7 +18,7 @@ Much Islamic art applies principles of geometry and repeats simple patterns to f
 
 2. Also recall the `pinwheel `code you have written in Unit 1. ![](http://bjc.edc.org/bjc-r/img/2-complexity/EgyptianMotif_img/pinwheelCode.png "Code for drawing pinwheel")
 
-3. In this project, you will replace the _**pinwheel branches **_with _**rectangles **_as shown below. Note use of color is optional and is used here for clarity.
+3. In this project, you will replace the _**pinwheel branches **with _**rectangles **as shown below. Note use of color is optional and is used here for clarity.
 
    ![](http://bjc.edc.org/bjc-r/img/2-complexity/EgyptianMotif_img/multiColorPinwheel.png "Multicolored pinwheel")
 
@@ -41,19 +41,18 @@ Much Islamic art applies principles of geometry and repeats simple patterns to f
 
    1. The following should be reasonable values for the minimum and maximum of each variable:
 
-      1. |  Variable  |
+      1. | Variable |
          | :--- |
 
+|  | Minimum | Maximum |
+| :--- | :--- | :--- |
+| number of branches | 3 | 36 |
+| size | 0 | 100 |
+| backup | 0 | 100 |
+| width | 0 | 150 |
+| length | 0 | 150 |
 
-         |  | Minimum | Maximum |
-         | :--- | :--- | :--- |
-         | number of branches | 3 | 36 |
-         | size | 0 | 100 |
-         | backup | 0 | 100 |
-         | width | 0 | 150 |
-         | length | 0 | 150 |
-
-1. Click on the animation below to see an example of how you can use the slider functionality in Snap_! _to generate and explore a vast number of variations of your designs. ![](http://bjc.edc.org/bjc-r/img/2-complexity/EgyptianMotif_img/sliderAnimationDemo.gif)
+1. Click on the animation below to see an example of how you can use the slider functionality in Snap\_! \_to generate and explore a vast number of variations of your designs. ![](http://bjc.edc.org/bjc-r/img/2-complexity/EgyptianMotif_img/sliderAnimationDemo.gif)
 
 2. Your code needs to make sure that the computer is always on the watch in case any of the variables are changed by the user via the sliders. You can do so with a `forever `block.  
    ![](http://bjc.edc.org/bjc-r/img/2-complexity/EgyptianMotif_img/foreverLoop2.png "Forever loop")
@@ -73,9 +72,6 @@ Much Islamic art applies principles of geometry and repeats simple patterns to f
 #### For You To Do
 
 1. Take screenshots of your creations and share with the class. Put them on a class webpage if you have one. Below are some examples o the types of variations you can generate.
-
-  
-
 
 
 

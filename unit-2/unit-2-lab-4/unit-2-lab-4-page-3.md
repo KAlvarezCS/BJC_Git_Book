@@ -1,6 +1,6 @@
 # Brick Wall
 
-I**n this project,**you will use abstraction to draw a brick wall.
+I**n this project, **you will use abstraction to draw a brick wall.
 
 ![](http://bjc.edc.org/bjc-r/img/abstraction/new-brickwall/wall.png "Sample image of brick wall")
 
@@ -8,16 +8,16 @@ I**n this project,**you will use abstraction to draw a brick wall.
 
 Any good programming language might have many tools for drawing and moving, but it wouldn't make sense to have special tools for drawing bricks because most programs don't involve bricks. That's the sort of tool you make yourself when you need it.
 
-Creating a special![](http://bjc.edc.org/bjc-r/img/2-complexity/U2ImageVideoAddendum_img/drawBrick.png "drawBrick length:\(\) width:\(\) block")block lets you use procedure names related to the problem you are solving \(like`draw brick`\), rather than the general-purpose procedures \(like`move`\) that the computer uses for all kinds of tasks.
+Creating a special![](http://bjc.edc.org/bjc-r/img/2-complexity/U2ImageVideoAddendum_img/drawBrick.png "drawBrick length:\(\) width:\(\) block")block lets you use procedure names related to the problem you are solving \(like `draw brick`\), rather than the general-purpose procedures \(like `move`\) that the computer uses for all kinds of tasks.
 
 ### Drawing One Brick
 
-A picture of a brick is just a rectangle with a brick red color. However, there's no`draw rectangle`block inSnap. One way to draw one is by thinking of a rectangle as a very thick line. Here's the idea:  
+A picture of a brick is just a rectangle with a brick red color. However, there's no `draw rectangle `block in Snap. One way to draw one is by thinking of a rectangle as a very thick line. Here's the idea:  
 ![](http://bjc.edc.org/bjc-r/img/2-complexity/U2ImageVideoAddendum_img/simpleBrickCode.png "draw brick, length:\(\) width:\(\) block definition")
 
 The![](http://bjc.edc.org/bjc-r/img/2-complexity/U2ImageVideoAddendum_img/setFlat.png "set flat line ends to &amp;lt;&amp;gt;")block isn't built into Snap_!_. In projects without it, you can set the "Flat line ends" in the![](http://bjc.edc.org/bjc-r/img/sys/settings.png "Settings")menu.
 
-Ordinarily, Snap_!_draws thick lines with rounded ends:![](http://bjc.edc.org/bjc-r/img/2-complexity/U2ImageVideoAddendum_img/round-ends.png "line with round ends"). That's often the best choice, and you can see why below. But for bricks, we want flat line ends:![](http://bjc.edc.org/bjc-r/img/2-complexity/U2ImageVideoAddendum_img/flat-ends.png "flat line ends").
+Ordinarily, Snap! draws thick lines with rounded ends:![](http://bjc.edc.org/bjc-r/img/2-complexity/U2ImageVideoAddendum_img/round-ends.png "line with round ends"). That's often the best choice, and you can see why below. But for bricks, we want flat line ends:![](http://bjc.edc.org/bjc-r/img/2-complexity/U2ImageVideoAddendum_img/flat-ends.png "flat line ends").
 
 ![](http://bjc.edc.org/bjc-r/img/2-complexity/flat-line-ends-why.jpg "Square with flat line ends versus square with round line ends")
 
@@ -31,7 +31,7 @@ Ordinarily, Snap_!_draws thick lines with rounded ends:![](http://bjc.edc.org/bj
 
 You'd like the "top level" block to be something like this:  
 ![](http://bjc.edc.org/bjc-r/img/2-complexity/U2ImageVideoAddendum_img/draw-brick-wall-7.png "draw-brick-wall-7")  
-Getting there involves**problem decomposition**: breaking the problem into smaller pieces.
+Getting there involves **problem decomposition**: breaking the problem into smaller pieces.
 
 There are two kinds of rows, so we make blocks that specialize in each:
 
@@ -63,7 +63,7 @@ Once you have rows A and B the same length, you are ready to write the ![](http:
 
 ![](http://bjc.edc.org/bjc-r/img/2-complexity/even-obsolete.png "even? \(number\) block definition with Obsolete! block")
 
-You created your`even?`block using another custom block,`divisible by?`. You must export_both_blocks in order for`even?`to work properly when you import it into your Brick Wall project.
+You created your `even?`block using another custom block,`divisible by?`. You must export both blocks in order for `even?`to work properly when you import it into your Brick Wall project.
 
 If you ever see this red `Obsolete!`block in code you have imported, it means that a required block was not exported. You'll want to go back to the original project and export again being sure to select all of the blocks needed by your custom blocks.
 
@@ -75,7 +75,7 @@ If you ever see this red `Obsolete!`block in code you have imported, it means th
 
 #### Take It Further
 
-* Add more inputs to `draw Brick Wall `\(and as needed to `row A `and `row B`\) for:
+* Add more inputs to `draw Brick Wall`\(and as needed to `row A`and `row B`\) for:
 
   * Number of bricks per row
 
