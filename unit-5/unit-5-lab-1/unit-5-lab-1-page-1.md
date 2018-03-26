@@ -16,14 +16,13 @@
 
 **Betsy:** I got it in 4 guesses once. I think that's the best you can do.
 
-**Gamal:** If you were _really _lucky, you could have gotten it in one guess.
+**Gamal:** If you were really lucky, you could have gotten it in one guess.
 
 **Betsy:** But I have a strategy that isn't just luck.
 
 **Gamal:** You have a strategy that will always work in 4 guesses?!
 
-**Betsy:** Not always 4, but always a lot less than 12.  
-
+**Betsy:** Not always 4, but always a lot less than 12.
 
 #### For You To Do
 
