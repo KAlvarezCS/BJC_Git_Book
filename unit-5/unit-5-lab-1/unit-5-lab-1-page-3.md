@@ -2,14 +2,14 @@
 
 **On this page, **you will test if the elements of a list are _distinct _\(no duplicates\). ![](https://bjc.edc.org/bjc-r/img/5-algorithms/are-numbers-in-list-distinct-reporting.png "are the numbers of \(list {20, 12, 3100, 50, 12}\) distinct? reporting false")
 
-Suppose you have a list of items and want to know if the elements of the list are_distinct_\(unique\). This kind of question pops up frequently: for example, a Web search engine would want to be sure all of the search results are different from each other.
+Suppose you have a list of items and want to know if the elements of the list are _distinct_\(unique\). This kind of question pops up frequently: for example, a Web search engine would want to be sure all of the search results are different from each other.
 
 Here is one algorithm to solve the problem:
 
-* **Step 1.** Compare the first item of the list with each of the later items in the list \(the second item, the item, etc.\). If you see the first item again, report that the numbers _are not _distinct \(`false`\).
+* **Step 1.** Compare the first item of the list with each of the later items in the list \(the second item, the item, etc.\). If you see the first item again, report that the numbers \_are not \_distinct \(`false`\).
 * **Step 2.** If you compete Step 1 without stopping, compare the second item with each of the later items \(the third, the, etc.\). If you see the second item again, report that the numbers are not distinct \(`false`\).
 * **Step 3.** Repeat Step 2 for each number in the list. Compare that item with each of the later items in the in the list.
-* **Step 4.** If you complete Step 3 without finding any duplicates, report that the items _are _distinct \(`true`\).
+* **Step 4.** If you complete Step 3 without finding any duplicates, report that the items are distinct \(`true`\).
 
 #### For You To Do
 

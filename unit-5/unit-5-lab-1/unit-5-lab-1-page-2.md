@@ -4,11 +4,11 @@
 
 ### Searching in Unsorted Data
 
-Searching for an item in _unsorted _data is less efficient because you have to check every item, but it is easier to code.
+Searching for an item in \_unsorted \_data is less efficient because you have to check every item, but it is easier to code.
 
 #### For You To Do
 
-1. Build a `position of number in unsorted list `block that reports the earliest location of a number in an unsorted list or reports "Not In List" \(or NIL, if you like\) if the number is not in the list. ![](https://bjc.edc.org/bjc-r/img/5-algorithms/position-of-number-12-in-unsorted-list-reporting-2.png "position of number \(12\) in unsorted list\(list{20,12,3,100,50,12}\) reporting 2")
+1. Build a `position of number in unsorted list`block that reports the earliest location of a number in an unsorted list or reports "Not In List" \(or NIL, if you like\) if the number is not in the list. ![](https://bjc.edc.org/bjc-r/img/5-algorithms/position-of-number-12-in-unsorted-list-reporting-2.png "position of number \(12\) in unsorted list\(list{20,12,3,100,50,12}\) reporting 2")
 
    ![](https://bjc.edc.org/bjc-r/img/5-algorithms/unsorted-list.png "unsorted list {20, 12, 3, 100, 50, 12}")
 
@@ -16,7 +16,7 @@ Searching unsorted data can be incredibly slow if we're dealing with a lot of da
 
 ### Searching in Sorted Data
 
-If you are searching for a number in a _sorted _list, you have more information. Suppose you have a sorted list and you want to locate the position of a number.
+If you are searching for a number in a sorted list, you have more information. Suppose you have a sorted list and you want to locate the position of a number.
 
 Typically, sorted lists are from lowest to highest. You'll create a block that sorts a list of numbers in Unit 8, [Sorting a List](https://bjc.edc.org/bjc-r/cur/programming/8-recursive-reporters/2-sorting/1-sorting-a-list.html?topic=nyc_bjc%2F7-recursive-reporters.topic&course=bjc4nyc.html&novideo&noassignment).
 
@@ -32,9 +32,9 @@ Typically, sorted lists are from lowest to highest. You'll create a block that s
 
 and report its position. It should work like this:![](https://bjc.edc.org/bjc-r/img/5-algorithms/position-of-number-11-in-sorted-list-awful-list.png "position of number \(11\) in sorted list \(awful list\) reporting 5")
 
-**Betsy:** Yes, but it still _feels _the same. It should have the same guts as the guessing game.
+**Betsy:** Yes, but it still feels the same. It should have the same guts as the guessing game.
 
-Betsy's last remark is a version of **abstraction**. Betsy noticed that `position in sorted list `and the [number guesser algorithm](https://bjc.edc.org/bjc-r/cur/programming/5-algorithms/1-searching-lists/1-sorted-lists.html?topic=nyc_bjc%2F5-algorithms.topic&course=bjc4nyc.html&novideo&noassignment) should have the same overall _structure._
+Betsy's last remark is a version of **abstraction**. Betsy noticed that `position in sorted list`and the [number guesser algorithm](https://bjc.edc.org/bjc-r/cur/programming/5-algorithms/1-searching-lists/1-sorted-lists.html?topic=nyc_bjc%2F5-algorithms.topic&course=bjc4nyc.html&novideo&noassignment) should have the same overall _structure._
 
 #### For You To Do
 
@@ -46,7 +46,7 @@ Betsy's last remark is a version of **abstraction**. Betsy noticed that `positio
 
 2. Then, build a `position of number in sorted list `block that returns the position of a number in a list sorted from lowest to highest or zero if the number is not in the list. \(Note: This task is identical to the previous one except that instead of the block "saying" the position it will need to "report" the position.\) ![](https://bjc.edc.org/bjc-r/img/5-algorithms/position-of-number-11-in-sorted-list-awful-list.png "position of number \(11\) in sorted list \(awful list\) reporting 5")
 
-   ![](https://bjc.edc.org/bjc-r/img/5-algorithms/position-of-number-2-in-sorted-list-awful-list.png "position of number \(2\) in sorted list \(awful list\)  reporting 0")  
+   ![](https://bjc.edc.org/bjc-r/img/5-algorithms/position-of-number-2-in-sorted-list-awful-list.png "position of number \(2\) in sorted list \(awful list\)  reporting 0")
 
 #### If There Is Time...
 
