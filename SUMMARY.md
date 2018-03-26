@@ -126,6 +126,6 @@
 * [Unit 5](unit-5.md)
   * [Unit 5 Lab 1](unit-5/unit-5-lab-1.md)
     * [Unit 5 Lab 1 Page 1 ](unit-5/unit-5-lab-1/unit-5-lab-1-page-1.md)
-    * Unit 5 Lab 1 Page 2
-    * Unit 5 Lab 1 Page 3
+    * [Unit 5 Lab 1 Page 2](unit-5/unit-5-lab-1/unit-5-lab-1-page-2.md)
+    * [Unit 5 Lab 1 Page 3](unit-5/unit-5-lab-1/unit-5-lab-1-page-3.md)
 
