@@ -1,4 +1,4 @@
-.Adding Contact Data
+# Adding Contact Data
 
 **On this page, **you will develop code for "Add Contact" and "Clear List" buttons in your contact list program.
 
@@ -11,7 +11,7 @@
 
    2. **Collecting Data from the User:  **You'll want to ask the user for each piece of data \(contact name, address, and phone number\) separately.
 
-      1. **You **_**could **_**use several `ask `and `answer `blocks together with script variables **to request and then store each piece of user input until you are ready to report them all together using `contact`.  ![](http://bjc.edc.org/bjc-r/img/3-lists/contact-constructor-with-variables.png "contact with name: \(name\) address: \(address\) phone: \(phone\)")
+      1. **You **_**could **_**use several **`ask `**and **`answer `**blocks together with script variables **to request and then store each piece of user input until you are ready to report them all together using `contact`.  ![](http://bjc.edc.org/bjc-r/img/3-lists/contact-constructor-with-variables.png "contact with name: \(name\) address: \(address\) phone: \(phone\)")
 
       2. _**Another way **_**that makes for cleaner code is to use **_**abstraction**_**: create helper blocks **\(such as ![](http://bjc.edc.org/bjc-r/img/3-lists/ask-name.png "ask name") and ![](http://bjc.edc.org/bjc-r/img/3-lists/ask-phone.png "ask phone")\) that each ask the user for one piece of data and report their answer to the `contact `constructor.![](http://bjc.edc.org/bjc-r/img/3-lists/contact-constructor-with-helpers.png "contact with name: \(ask name\) address: \(ask address\) phone: \(ask phone\)")
 
@@ -35,13 +35,13 @@
 
       1. For example, clicking, "Clear List" might `ask `the user, "Enter c to clear the list, or enter anything else to cancel."
 
-   2. **Debug.** Make sure this feature behaves as expected for either user choice. 
+   2. **Debug.** Make sure this feature behaves as expected for either user choice.
 
 #### ![](/assets/save.png)
 
 #### If There Is Time...
 
-1. The sprites' questions might be covered up by the contact list watcher on the stage. Use `hide variable `and `show variable `to hide the contact list watcher until the end of each sprite's script.
+1. The sprites' questions might be covered up by the contact list watcher on the stage. Use `hide variable`and `show variable `to hide the contact list watcher until the end of each sprite's script.
 
 
 

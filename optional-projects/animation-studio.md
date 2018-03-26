@@ -27,6 +27,7 @@ Lists are data structures which are very useful if you have many items, in some 
    5. Do you know ahead of time how many locations the user's mouse will visit while drawing?
 
    6. Why is remembering the order of these locations important?
+
    7. What data structure is called for?
    8. What should happen when each of the following keys are pressed: up, down, right, left?
    9. How should the location information stored in the lists be updated to accomplish these movements?
@@ -39,7 +40,7 @@ Here are some code block that may be handy:
 
 #### Take It Further
 
-Brainstorm with your partner about some possible exntesions and bonus explorations of the project. Here are some ideas, do some of these or come up with your own:
+Brainstorm with your partner about some possible extensions and bonus explorations of the project. Here are some ideas, do some of these or come up with your own:
 
 1. Revise your code so that all the arrow key inputs \(up/down/right/left\) can be addressed by a single block.
 2. Add background image\(s\), sound/music to your character animation.

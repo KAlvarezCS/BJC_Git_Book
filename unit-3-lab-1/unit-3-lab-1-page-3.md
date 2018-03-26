@@ -15,7 +15,7 @@ As you add more contacts to your list, it will become less and less realistic to
 
       2. ![](http://bjc.edc.org/bjc-r/img/blocks/keep.png "keep items such that &amp;lt;&amp;gt; from \(list\)"), which reports only the items that make the function true
 
-      3.  ![](http://bjc.edc.org/bjc-r/img/blocks/empty.png "empty {} ? predicate function"), which returns `true `if the list is empty and `false `otherwise
+      3. ![](http://bjc.edc.org/bjc-r/img/blocks/empty.png "empty {} ? predicate function"), which returns `true `if the list is empty and `false `otherwise
 
       4. Selector ![](http://bjc.edc.org/bjc-r/img/3-lists/name-selector.png "name from contact: \(\)")
 
@@ -37,9 +37,10 @@ As you add more contacts to your list, it will become less and less realistic to
    3. Then, use your `find contacts `block to find all the matching contacts.
 
    4. Give the user the list of matching contacts and ask them for confirmation to delete \(so the user won't accidentally delete their contact\).
+
    5. If the user confirms that they want to delete these contacts, replace the contact list with a list of all contacts whose name does not match the inputted name.
 
-2. Modify your "Delete Contact" script so that it lets the user choose which contact they want to delete when`find`
+2. Modify your "Delete Contact" script so that it lets the user choose which contact they want to delete when `find`
 
    reports more than one.
 

@@ -17,7 +17,7 @@ What about data with millions of pieces of information, instead of a few hundred
 
 6. Did you have trouble answering any of these questions? What, if anything, _doesn't _ this visualization do well? How might you improve it?
 
-![](https://bjc.edc.org/bjc-r/img/5-algorithms/babypic.png "Baby Name Voyager")The Baby Name Voyager is an impressive visualization of a large data set. This data comes from the[Social Security Administration](https://www.ssa.gov/oact/babynames/limits.html), a text file for each year from 1880 to 2014. Very few of the insights in this data would be learned just from reading these files!
+![](https://bjc.edc.org/bjc-r/img/5-algorithms/babypic.png "Baby Name Voyager")The Baby Name Voyager is an impressive visualization of a large data set. This data comes from the [Social Security Administration](https://www.ssa.gov/oact/babynames/limits.html), a text file for each year from 1880 to 2014. Very few of the insights in this data would be learned just from reading these files!
 
 Large data sets present unique challenges and opportunities:
 
@@ -30,6 +30,7 @@ Large data sets present unique challenges and opportunities:
 * Some large data sets are built by human collaboration, and can include text, sound, images, and video.
 
 * Collaborative analysis is very useful when working with large data sets, often resulting in new information that could not be learned by an individual.
+
 * Working with large data sets is often about making connections and identifying trends.
 * Large data sets often contain personally identifiable information, such as names, locations, email addresses, and passwords. It can be difficult to work with large data sets while protecting personal privacy.
 
@@ -46,7 +47,6 @@ when working with large data sets, giving people the opportunity to study what m
 ### Take It Further
 
 1. Think of a large data source you've produced, and visualize it using Snap!. Remember, large data sets can include text, sound, images, and video.
-  
 
 
 

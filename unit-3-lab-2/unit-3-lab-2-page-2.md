@@ -13,24 +13,25 @@
 
 3. Find out if a winning triple has actually happened:
 
-   1. Click ![](http://bjc.edc.org/bjc-r/img/1-introduction/green-flag_button.png "green flag button") to clear your tic-tac-toe board and initialize board. Play _one _game, _deliberately letting _**x **_win_.
+   1. Click ![](http://bjc.edc.org/bjc-r/img/1-introduction/green-flag_button.png "green flag button") to clear your tic-tac-toe board and initialize board. Play _one \_game, \_deliberately letting _**x **_win_.
 
    2. Try this: ![](http://bjc.edc.org/bjc-r/img/3-lists/map-item-board.png "map \(item \( \) of \(board\)\) over \(list 1 2 3\)")
 
       1. **Note **that the first input to `item `is empty.
 
    3. What does the result of the above tell you about the state of the game?
-   4. If `{1, 2, 3} `isn't the triple in which **x **won the game, try part \(b\) again for that winning triple.
 
-4. Make a block ![](http://bjc.edc.org/bjc-r/img/3-lists/status-of-triple.png "status of triple \( \)") that takes a list like `{1, 2, 3} `as input and reports a list of which of those squares are occupied by whom.
+   4. If `{1, 2, 3}`isn't the triple in which **x **won the game, try part \(b\) again for that winning triple.
 
-5. Use `map `and `TicTacToe wins `to make a block that reports the status of _all possible _winning triples, as a list of lists.
+4. Make a block ![](http://bjc.edc.org/bjc-r/img/3-lists/status-of-triple.png "status of triple \( \)") that takes a list like `{1, 2, 3}`as input and reports a list of which of those squares are occupied by whom.
+
+5. Use `map `and `TicTacToe  wins `to make a block that reports the status of all possible winning triples, as a list of lists.
 
 6. Make a block ![](http://bjc.edc.org/bjc-r/img/3-lists/wonQ.png "won? \( \)") that takes the letter **X **or **O **as input,  and reports `True `if and only if that player has won the game.
 
 7. Modify your program so that when a layer wins the game, the program _notifies_ the players.
 
-8. The definition of a tie game is that there are no more empty squares, and neither player has won. Declare a tie \(switch the sprite's costume to Turtle and have it `say `"TIE GAME!"\) when there are no empty squares after a move. Be sure to make this test _after _the test for a win.
+8. The definition of a tie game is that there are no more empty squares, and neither player has won. Declare a tie \(switch the sprite's costume to Turtle and have it `say`"TIE GAME!"\) when there are no empty squares after a move. Be sure to make this test after the test for a win.
 
    1. [Click here if you want a hint.](http://bjc.edc.org/bjc-r/cur/programming/3-lists/2-tic-tac-toe/2-find-wins.html?topic=nyc_bjc%2F3-lists.topic&course=bjc4nyc.html&novideo&noassignment#hint-target)
 

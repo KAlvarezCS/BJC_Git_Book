@@ -3,15 +3,13 @@
 **On this page**, you will learn about and practice answering questions about _metadata_.  
 Data can even include _data about itself_. For example, a music file might contain data describing the song title, artist, album, genre, record label, etc. Or an image file might include data for the date that the picture was taken, the location where it was taken, information about the camera settings, etc. This kind of information about data is called **metadata**. Metadata can be useful when working with data because it tells you additional information about the data you are working with.
 
-
-
-Because metadata is often not displayed by software, it's easy to violate privacy without realizing it when posting data online. Click the links below to see short excerpts from _Blown to Bits _about:
+Because metadata is often not displayed by software, it's easy to violate privacy without realizing it when posting data online. Click the links below to see short excerpts from Blown to Bits about:
 
 * [photo metadata identifying your specific camera.](https://bjc.edc.org/bjc-r/cur/programming/3-lists/5-big-data/4-metadata.html?topic=nyc_bjc%2F3-lists.topic&course=bjc4nyc.html&novideo&noassignment#hint-1)
 
 * [Word document metadata with deleted text.](https://bjc.edc.org/bjc-r/cur/programming/3-lists/5-big-data/4-metadata.html?topic=nyc_bjc%2F3-lists.topic&course=bjc4nyc.html&novideo&noassignment#hint-2)
 
-Here's a BJC video about metadata from University of California, Berkeley. https://youtu.be/dZULyIcxPBg
+Here's a BJC video about metadata from University of California, Berkeley. [https://youtu.be/dZULyIcxPBg](https://youtu.be/dZULyIcxPBg)
 
 #### For You To Do
 
@@ -35,9 +33,9 @@ Here's a BJC video about metadata from University of California, Berkeley. https
 
       4. To determine the most active users of the app for a given year.
 
-   3. Which of the following is _**not **_an example of _metadata_?
+   3. Which of the following is _**not **an example of metadata_?
 
-      1. Data about a digital image describing the size of the image, image resolution, color depht, and when the image was created.
+      1. Data about a digital image describing the size of the image, image resolution, color depth, and when the image was created.
 
       2. Data about a text document containing information about the length of the document, its author, the date the document was written, and a short summary of the content.
 

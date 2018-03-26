@@ -2,7 +2,7 @@
 
 **On this page**, you will explore, analyze, and summarize big data about global health trends using an interactive data visualization tool.
 
-**Big data **is a common term that describes _extremely large data sets _used to discover patterns in human behavior, interactions, and health as well as in environmental science and many other fields. Large data sets can be overwhelming to analyze, but computer software tools can help researchers extract information, identify trends, make connections, and solve problems with big data.
+**Big data **is a common term that describes extremely large data sets used to discover patterns in human behavior, interactions, and health as well as in environmental science and many other fields. Large data sets can be overwhelming to analyze, but computer software tools can help researchers extract information, identify trends, make connections, and solve problems with big data.
 
 ![](/assets/talk_with_partner.png)
 
@@ -17,9 +17,9 @@
    5. What does the slider at the bottom do?
    6. If the interactive graph doesn't work on this page, you can [view it on google.com](https://www.google.com/publicdata/explore?ds=d5bncppjof8f9_&ctype=b&strail=false&bcs=d&nselm=s&met_x=sp_dyn_le00_in&scale_x=lin&ind_x=false&met_y=sp_dyn_tfrt_in&scale_y=lin&ind_y=false&met_s=sp_pop_totl&scale_s=lin&ind_s=false&dimp_c=country:region&ifdim=country&tunit=Y&pit=1437710400000&ind=false&icfg&iconSize=0.5).
 
-2. **Analyze **the data. In the interactive graph above, click the play button in the lower-left or move the slider at the bottom. Discuss the following: 
+2. **Analyze **the data. In the interactive graph above, click the play button in the lower-left or move the slider at the bottom. Discuss the following:
 
-   1. What does this interactive data set tell you about global trends in life expectency over time \(on average\)?
+   1. What does this interactive data set tell you about global trends in life expectancy over time \(on average\)?
 
    2. What about global trends in fertility over time \(on average\)?
 
@@ -37,10 +37,6 @@
 
 1. **Summarize your findings.** Write a paragraph or two with your partner describing your findings about life expectancy and fertility for this country over this time period.
 
-
-
-[  
+[    
 ](http://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-
 
