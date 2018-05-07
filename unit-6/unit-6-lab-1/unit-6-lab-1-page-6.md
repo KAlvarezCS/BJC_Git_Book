@@ -1,12 +1,12 @@
 # The Digital Domain: Architecture
 
-**On this page**, we shift from software to hardware, starting with the _architecture, _which is essentially the hardware as it looks to the software.
+**On this page**, we shift from software to hardware, starting with the architecture, which is essentially the hardware as it looks to the software.
 
-The software in a computer would be useless without the computer's _hardware: _the actual circuitry inside the box. Just as there are layers of abstraction for software, hardware designers also think in layers of abstraction.
+The software in a computer would be useless without the computer's hardware: the actual circuitry inside the box. Just as there are layers of abstraction for software, hardware designers also think in layers of abstraction.
 
 ![](https://bjc.edc.org/bjc-r/img/6-computers/hardware-abstraction-mini.png "simplified diagram of computer abstraction hierarchy showing three levels of decreasing abstraction: software domain, digital domain, and analog domain; there is a dividing line between the software and digital domains labeled &apos;program abstraction barrier&apos; and a dividing line between the digital and analog domains labeled &apos;digital abstraction barrier;&apos; there is a vertical double-headed arrow on the right indicating that the items listed first on the list have a &apos;high level of abstraction&apos; and those lower on the list have a &apos;low level of abstraction&apos;")
 
-Everyone talks about computers representing all data using only two values, 0 and 1. But that's not really how electronic circuits work. Computer designers can work _as if _circuits were either off \(0\) or on \(1\) because of the **digital abstraction**, the most important abstraction in hardware. Above that level of abstraction, there are four more detailed levels, called the **digital domain**. Below the digital abstraction, designers work in the **analog domain**, in which a wire in a circuit can have any voltage value, not just two values.
+Everyone talks about computers representing all data using only two values, 0 and 1. But that's not really how electronic circuits work. Computer designers can work \_as if \_circuits were either off \(0\) or on \(1\) because of the **digital abstraction**, the most important abstraction in hardware. Above that level of abstraction, there are four more detailed levels, called the **digital domain**. Below the digital abstraction, designers work in the **analog domain**, in which a wire in a circuit can have any voltage value, not just two values.
 
 On the next four pages, we'll explore four levels of the digital domain.
 
@@ -32,8 +32,7 @@ Babbage's first computer was the Difference Engine. He used gears to design a co
 
 #### The Analytical Engine
 
-The Difference Engine could be used to compute many different functions by manually setting the starting position of various gears. But it had **only one algorithm**: the one built into the hardware design. In 1833, Babbage began working on the Analytical Engine, which was based on the general idea of the Difference Engine but **could carry out instructions **in a primitive programming language prepared on punched cards.  
-
+The Difference Engine could be used to compute many different functions by manually setting the starting position of various gears. But it had **only one algorithm**: the one built into the hardware design. In 1833, Babbage began working on the Analytical Engine, which was based on the general idea of the Difference Engine but **could carry out instructions **in a primitive programming language prepared on punched cards.
 
 Punched cards used to program the Analytical Engine Karoly Lorentey. Copyright 2004. License: CC-BY.
 
@@ -41,7 +40,7 @@ Punched cards used to program the Analytical Engine Karoly Lorentey. Copyright 2
 
 These days, we are surrounded by programmable computers, and having software seems obvious now. But it wasn't obvious, and before Babbage, all algorithms were implemented directly in hardware.
 
-So, 150 years ago, Babbage created plans for what is essentially a modern computer, although he didn't have electronics available. His underlying idea for hardware was entirely mechanical, but it turned out not to be possible for him to build it with then-current technology. We didn't get _usable _computers until there was an underlying technology small enough, inexpensive enough, and fast enough to support the software abstraction. You'll learn about this technology, transistors, soon.
+So, 150 years ago, Babbage created plans for what is essentially a modern computer, although he didn't have electronics available. His underlying idea for hardware was entirely mechanical, but it turned out not to be possible for him to build it with then-current technology. We didn't get \_usable \_computers until there was an underlying technology small enough, inexpensive enough, and fast enough to support the software abstraction. You'll learn about this technology, transistors, soon.
 
 The abstraction of _software _\(a program stored in the computer's memory\) is what makes a computer usable for more than one purpose.
 
@@ -63,7 +62,7 @@ The most important part of the architecture is the machine language, the set of 
 
 **Architecture **is an abstraction, a specification of the machine language. It also tells how the processor connects to the memory. It doesn't specify the circuitry; the same architecture can be built as circuitry in many different ways.
 
-One important part of an architecture is the number of wires that connect the processor and memory. This is called the _width _of the architecture, measured in _bits_\(number of wires\). A wider computer can process more data in one instruction.
+One important part of an architecture is the number of wires that connect the processor and memory. This is called the _width of the architecture, measured in bits_\(number of wires\). A wider computer can process more data in one instruction.
 
 [What does machine language look like?](https://bjc.edc.org/bjc-r/cur/programming/6-computers/1-abstraction/06-digital-architecture.html?topic=nyc_bjc%2F6-how-computers-work.topic#hint-machine-language)
 
@@ -74,8 +73,6 @@ Learn about:
 * [embedded architecture and the "Internet of Things"](https://bjc.edc.org/bjc-r/cur/programming/6-computers/1-abstraction/06-digital-architecture.html?topic=nyc_bjc%2F6-how-computers-work.topic#hint-architecture-iot)
 * [hobbyist computer architecture](https://bjc.edc.org/bjc-r/cur/programming/6-computers/1-abstraction/06-digital-architecture.html?topic=nyc_bjc%2F6-how-computers-work.topic#hint-architecture-hobby)
 * [computer architecture in general](https://bjc.edc.org/bjc-r/cur/programming/6-computers/1-abstraction/06-digital-architecture.html?topic=nyc_bjc%2F6-how-computers-work.topic#hint-architecture-general)
-
-
 
 #### Take It Further
 
