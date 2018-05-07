@@ -136,9 +136,7 @@
     * [Unit 5 Lab 3 Page 1](unit-5/unit-5-lab-3/unit-5-lab-3-page-1.md)
     * [Unit 5 Lab 3 Page 2](unit-5/unit-5-lab-3/unit-5-lab-3-page-2.md)
     * [Unit 5 Lab 3 Page 3](unit-5/unit-5-lab-3/unit-5-lab-3-page-3.md)
-  * Unit 5 Lab 4
-    * Unit 5 Lab 4 Page 1
+  * [Unit 5 Lab 4](unit-5/unit-5-lab-4.md)
+    * [Unit 5 Lab 4 Page 1](unit-5/unit-5-lab-4/unit-5-lab-4-page-1.md)
     * Unit 5 Lab 4 Page 2
-
-
 
