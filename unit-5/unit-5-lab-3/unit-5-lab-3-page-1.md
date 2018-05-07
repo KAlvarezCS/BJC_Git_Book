@@ -8,7 +8,7 @@
 
 #### Thinking Out Loud
 
-Alphie and Betsy are creating algorithms that take a positive integer as input and report the sum of all integers from 1 to the input number, like this:   
+Alphie and Betsy are creating algorithms that take a positive integer as input and report the sum of all integers from 1 to the input number, like this:  
 ![](https://bjc.edc.org/bjc-r/img/5-algorithms/sum-from-1-to-13-reporting.png "sum from 1 to \(13\) reporting 91")
 
 Their two different approaches always give the same outputs for the same inputs. Alphie and Betsy are discussing their different approaches.
@@ -71,4 +71,27 @@ Betsy writes \frac{13\* 14}{2}
 Alphie writes \frac{50 \* 51}{2} = 1275.
 
 **Betsy:** \(smiling\) So in general to add the numbers between 1 and some number, n, you multiply the input number by one more than the input number and then you divide the result by 2...
+
+Betsy writes \frac{n\(n + 1\)}{2}.
+
+Then Betsy builds the block, and Alphie helps debug.
+
+
+
+#### For You To Do
+
+1. Discuss these two algorithms and make a hypothesis: Which algorithm do you think will be more efficient? Why?
+2. Implement a `sum from 1 to `algorithm. You can use Alphie’s method \(using `combine `to code `sum`\), you can use Betsy’s formula, or you can build it your own way. Save this as "U5L3-ReporterTimer". For Alphie’s method, you’ll need to code
+
+   ![](https://bjc.edc.org/bjc-r/img/5-algorithms/list-from.png "list from\(\) to \(\)") too.
+
+3. Work with another team to compare Alphie's and Betsy's algorithms across a variety of inputs. Determine which is more efficient.
+
+4. Consider what makes that algorithm more efficient. Write or share your thoughts.
+
+#### If There Is Time...
+
+1. If you built a [graphing app](https://bjc.edc.org/bjc-r/cur/programming/3-lists/4-graphing/2-building-a-grapher.html?topic=nyc_bjc%2F5-algorithms.topic&course=bjc4nyc.html&novideo&noassignment), try plotting y = sum from 1 to \(x\).
+
+
 
