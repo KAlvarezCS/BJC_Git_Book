@@ -141,6 +141,6 @@
     * [Unit 5 Lab 4 Page 2](unit-5/unit-5-lab-4/unit-5-lab-4-page-2.md)
   * [Unit 5 Lab 5](unit-5/unit-5-lab-5.md)
     * [Unit 5 Lab 5 Page 1](unit-5/unit-5-lab-5/unit-5-lab-5-page-1.md)
-    * Unit 5 Lab 5 Page 2
+    * [Unit 5 Lab 5 Page 2](unit-5/unit-5-lab-5/unit-5-lab-5-page-2.md)
     * Unit 5 Lab 5 Page 3
 
