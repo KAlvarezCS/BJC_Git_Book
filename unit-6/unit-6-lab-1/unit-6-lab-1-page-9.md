@@ -44,11 +44,10 @@ Inside a computer, Boolean operations are implemented in physical circuitry usin
    1. ![](https://bjc.edc.org/bjc-r/img/6-computers/boolean-quiz-a.png "\(T and F\) and \(not \(T and F\)\)")  
    2. ![](https://bjc.edc.org/bjc-r/img/6-computers/boolean-quiz-b.png "\(not \(T or F\)\) or \(T or F\)")
 
-
-
 * I only
 
 * II only
+
 * I and II
 * Neither I nor II
 
@@ -58,13 +57,26 @@ Inside a computer, Boolean operations are implemented in physical circuitry usin
    1. ![](https://bjc.edc.org/bjc-r/img/6-computers/logic-gates-quiz-b.png)  
    2. ![](https://bjc.edc.org/bjc-r/img/6-computers/logic-gates-quiz-a.png)
 
-
-
 * I only
 
 * II only
+
 * I and II
 * Neither I nor II
 
 
+
+[How do engineers draw logic gates?](https://bjc.edc.org/bjc-r/cur/programming/6-computers/1-abstraction/09-digital-logic-gates.html?topic=nyc_bjc%2F6-how-computers-work.topic#hint-target)
+
+![](https://bjc.edc.org/bjc-r/img/6-computers/logic-gates-example-circuit.png "logic gate diagram of \(not and\) and \(or\)")
+
+Engineers typically draw logic gates horizontally and use special shapes that represent each gate:
+
+![](https://bjc.edc.org/bjc-r/img/6-computers/LogicGates_img/Gates/AND.png "AND-gate")
+
+![](https://bjc.edc.org/bjc-r/img/6-computers/LogicGates_img/Gates/OR.png "OR-gate")
+
+![](https://bjc.edc.org/bjc-r/img/6-computers/LogicGates_img/Gates/NOT.png "NOT-gate")
+
+For example, engineers would draw the logic circuit shown at right like this:![](https://bjc.edc.org/bjc-r/img/6-computers/LogicGates_img/Circuits/notandandor.png "Engineer&apos;s version a logic gate with \(not and\) and \(or\)")Do an [image search for "logic gate diagrams"](https://www.google.com/search?q=logic+gate+diagrams&tbm=isch) to see more examples.
 

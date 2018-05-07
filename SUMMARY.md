@@ -154,5 +154,5 @@
     * [Unit 6 Lab 1 Page 7](unit-6/unit-6-lab-1/unit-6-lab-1-page-7.md)
     * [Unit 6 Lab 1 Page 8](unit-6/unit-6-lab-1/unit-6-lab-1-page-8.md)
     * [Unit 6 Lab 1 Page 9 ](unit-6/unit-6-lab-1/unit-6-lab-1-page-9.md)
-    * Unit 6 Lab 1 Page 10
+    * [Unit 6 Lab 1 Page 10](unit-6/unit-6-lab-1/unit-6-lab-1-page-10.md)
 
