@@ -15,9 +15,9 @@ In a computer, there are many applications and operating system tasks all wantin
 
 ### The Kernel
 
-The _kernel _deals directly with hardware \(keyboard, mouse, microphone, camera, hard drives, memory, printer, speakers, screen, etc.\). So the kernel is generally written in a low level language so it can control that hardware. It handles several important tasks:
+The kernel deals directly with hardware \(keyboard, mouse, microphone, camera, hard drives, memory, printer, speakers, screen, etc.\). So the kernel is generally written in a low level language so it can control that hardware. It handles several important tasks:
 
-*  **Scheduling**. The kernel has access to the time clock that's built into the hardware and lets each program run for a small amount of time \(typically about 1/10 second\) and then switches to the next program in line.
+* **Scheduling**. The kernel has access to the time clock that's built into the hardware and lets each program run for a small amount of time \(typically about 1/10 second\) and then switches to the next program in line.
 * **Security**. Those many application programs may have bugs or malicious code. The kernel, which has access to the memory where programs and data are stored, ensures that each program is assigned a separate location in memory and doesn't interfere with other programs. The kernel also controls which data files a program can use based on file protection settings that users or applications specify for each file.
 * **Input and output**. Many devices can be attached to your computer. The kernel knows how the computer's hardware reads or writes to each device. Only the kernel is allowed direct access to these devices, and it carries out authorized transfers of information for the applications.
 
