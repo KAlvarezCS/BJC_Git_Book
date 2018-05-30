@@ -160,7 +160,7 @@
     * [Unit 6 Lab 2 Page 2](unit-6/unit-6-lab-2/unit-6-lab-2-page-2.md)
     * [Unit 6 Lab 2 Page 3](unit-6/unit-6-lab-2/unit-6-lab-2-page-3.md)
     * [Unit 6 Lab 2 Page 4](unit-6/unit-6-lab-2/unit-6-lab-2-page-4.md)
-    * Unit 6 Lab 2 Page 5
+    * [Unit 6 Lab 2 Page 5](unit-6/unit-6-lab-2/unit-6-lab-2-page-5.md)
     * Unit 6 Lab 2 Page 6
     * Unit 6 Lab 2 Page 7
     * [Unit 6 Lab 2 Page 8](unit-6/unit-6-lab-2/unit-6-lab-2-page-8.md)
