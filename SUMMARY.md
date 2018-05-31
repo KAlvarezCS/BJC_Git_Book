@@ -169,5 +169,5 @@
     * [Unit 6 Lab 2 Page 2](unit-6/unit-6-lab-3/unit-6-lab-2-page-2.md)
     * [Unit 6 Lab 2 Page 3](unit-6/unit-6-lab-3/unit-6-lab-2-page-3.md)
   * Optional Projects
-    * Binary Timer Project
+    * [Binary Timer Project](unit-6/binary-timer-project.md)
 
