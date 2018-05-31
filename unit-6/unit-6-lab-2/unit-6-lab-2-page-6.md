@@ -35,7 +35,7 @@ This stands for 3 x 256 + 11 x 16 + 7 x 1 or 951
 
 ### Reading Hexadecimal
 
-**Base 16** uses **powers of sixteen **instead of powers of two or ten. Place values in hexadecimal represent the units place \(16_0 = 1\), the sixteens place \(161 = 16\), the two hundred fifty-sixes place \(16\_2 = 256\), the four thousand ninety-sixes place \(16_\_\_3 = 4096\), etc. So, for example:
+**Base 16** uses **powers of sixteen **instead of powers of two or ten. Place values in hexadecimal represent the units place \(16\__0 = 1\), the sixteens place \(16\_1 = 16\), the two hundred fifty-sixes place \(16\_2 = 256\), the four thousand ninety-sixes place \(16_\_\_3 = 4096\), etc. So, for example:
 
 3B16 = 3 x 16^1 + 11 x 16^0 = 48 + 11 = 59\_10
 
