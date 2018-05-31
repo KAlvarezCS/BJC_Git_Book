@@ -64,11 +64,11 @@ Remember: A-F cover the digits after 9:
 
 FF\_16
 
-= \(15 × 161 + 15 × 160\)10
+= \(15 × 161 + 15 × 160\)\_10
 
-= \(15 × 16 + 15\)10
+= \(15 × 16 + 15\)\_10
 
-= 25510
+= 255\_10
 
 A numeral such as 11 means eleven in the usual decimal notation, or three if it is a binary numeral, or seventeen in hexadecimal notation. The only way you know that the "18" in part \(c\) above doesn't mean eighteen is that subscript "16" means hexadecimal.
 
