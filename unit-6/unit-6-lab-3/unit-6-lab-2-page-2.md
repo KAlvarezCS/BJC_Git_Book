@@ -1,0 +1,47 @@
+# Moore's Law
+
+**On this page,** you'll learn that computer size and speed have approximately doubled every year or two, for over 50 years.
+
+![](https://bjc.edc.org/bjc-r/img/6-computers/mooreslaw_graph.png "Graph of transistor count in a processor increasing exponentially over the years from 1971 to 2017")
+
+In 1965, Gordon Moore, one of the pioneers of integrated circuits, predicted that the **number of transistors **that could be fit on one chip would double every year. In 1975, he revised his estimate to doubling every two years. This prediction is known as **Moore's Law.**
+
+It turns out that other important measurements have also shown roughly the same doubling behavior, such as processor speed and the amount of memory that fits in a computer. Doubling hardware speed improves the size of problems that you can efficiently handle.
+
+The importance of Moore's Law isn't just that computers get bigger and faster over time; it's that engineers can predict _how much _bigger and faster, which helps them plan the software and hardware development projects to start today, for use five years from now.
+
+#### If There Is Time...
+
+1. That huge computer you saw in Lab 1 was built in 1975, and it had about 1MB of memory. One 2017 desktop-sized computer server \(not a single-user computer\) has up to 3TB of memory \(3 billion MB\). Does the prediction of doubling every two years hold for these two machines?
+   1. How many years apart were they made?
+   2. If memory capacity doubled every two years during that time, by about what number should you multiply the huge computer's 1MB to predict the size of memory in 2017?
+   3. Is 3TB more than or less than you'd expect?
+
+### Limitations to Moore's Law
+
+For transistor counts to keep growing, the size of a transistor must keep getting smaller. But chip density and processor speed have run up against an important limit: denser chips and faster signal processing both generate increased heat. Current technology is right at the edge of generating enough heat to melt the chips, destroying the computer. This is why processor chips are surrounded by metal heat sinks \(one shown right\), which conduct heat away from the chip and into the air.
+
+#### Take It Further
+
+* Heat sinks aren't solid blocks of metal; they have spikes and zigzags. Figure out or look up why.
+
+Because of the heat problem, chip manufacturers have, at least temporarily, given up on making processors faster. Instead, they are putting more than one processor on a chip. If a computation can carry out the same algorithm on different parts of the data at the same time \(in parallel—sort of like sprite clones all running the same script at the same time\), then these multicore chips can have an effective speed much greater than the speed of a single processor. A computer you buy today is likely to have two or four processors on one chip. But using multicore efficiently requires that the software be written with multicore in mind.
+
+Learn about limitations to Moore's Law.
+
+Some time in the next decade, the size of a transistor will approach the size of an atom, but at the atomic scale, transistors won't work for various reasons. There is a more fundamental limit to the density of transistors on a chip than just heat issues. And similarly, there are fundamental limitations that affect the speed of a processor, such as the speed of electrons through a wire.
+
+Moore's Law optimists argue that technologies other than transistors will become usable before manufacturers hit a fundamental limit. One such approach would involve using an individual electron to represent one bit. Electrons are smaller than atoms, so this technology would allow further dramatic increases in density. Another approach would use light beams rather than electric current to hold bits. But these developments are still far away.
+
+#### For You To Do
+
+This question is similar to those you will see on the AP CSP exam.
+
+1. As Gordon Moore observed in 1965, data show that computer processing speeds roughly double every two years. Technology companies use this observation, now known as "Moore’s Law,’ in their planning. From the following, identify which one best describes how technology companies can use Moore’s Law in planning.
+   1. They can base their R&D \(Research and Development\) targets on expected future processing speeds.
+   2. They can anticipate the precise dates when the latest computing advancements will be available and therefore accurately plan their products in advance.
+   3. They can expect their costs to double with each increase in processor speed.
+   4. They can expect to double their profits every two years.
+
+
+
