@@ -1,4 +1,6 @@
-1. # Hexadecimal Representation
+1. ---
+
+   # Hexadecimal Representation
 
 Typing long strings of ones and zeros is inconvenient and prone to error. A more efficient method is to use hexadecimal \(base 16\). One hex digit represents any whole number between 0 an 15. So eight digits of binary can be translated into two digits of hexadecimal, which is much easier and much less error-prone for humans.
 
