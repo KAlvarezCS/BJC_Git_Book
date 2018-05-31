@@ -2,11 +2,11 @@
 
 Typing long strings of ones and zeros is inconvenient and prone to error. A more efficient method is to use hexadecimal \(base 16\). One hex digit represents any whole number between 0 an 15. So eight digits of binary can be translated into two digits of hexadecimal, which is much easier and much less error-prone for humans.
 
-Eight bits in base two...
+Eight bits in base two...
 
 | 2^7 | 2^6 | 2^5 | 2^4 | 2^3 | 2^2 | 2^1 | 2^0 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 128s place | 64s place | 32s palce  | 16s place | eights place  | fours place | twos place | ones place |
+| 128s place | 64s place | 32s palce | 16s place | eights place | fours place | twos place | ones place |
 
 is two digits in base 16
 
@@ -14,7 +14,7 @@ is two digits in base 16
 | :--- | :--- |
 | sixteens place | ones place |
 
-For example 121_10 = 01111001_2 = 79_\_16_
+For example 121_10 = 01111001\_2 = 79_\_16\_
 
 | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 1 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -24,17 +24,18 @@ For example 121_10 = 01111001_2 = 79_\_16_
 | :--- | :--- |
 
 
-In **base 16**, there are sixteen digits \(0-9 and A-F\), and each place is worth _sixteen _ times the place to its right. One hex digit has 16 possible values, the equivalent of four binary digits \(bits\). ![](https://bjc.edc.org/bjc-r/img/4-internet/hex-places.jpg "place values in hexadecimal")
+In **base 16**, there are sixteen digits \(0-9 and A-F\), and each place is worth _sixteen _ times the place to its right. One hex digit has 16 possible values, the equivalent of four binary digits \(bits\). ![](https://bjc.edc.org/bjc-r/img/4-internet/hex-places.jpg "place values in hexadecimal")
 
 This stands for 3 x 256 + 11 x 16 + 7 x 1 or 951
 
 #### For You To Do
 
-1. Watch this Hexadecimal and Binary Timer Snap! program run. The top row counts in binary, the middle in decimal, the bottom in hex. Write a description of the hex counter's behavior.   ![](https://bjc.edc.org/bjc-r/img/icons/talk-with-your-partner.png "Talk with Your Partner")![](https://bjc.edc.org/bjc-r/img/4-internet/hex-timer-preview.gif)
+1. Watch this Hexadecimal and Binary Timer Snap! program run. The top row counts in binary, the middle in decimal, the bottom in hex. Write a description of the hex counter's behavior.
+   ![](https://bjc.edc.org/bjc-r/img/icons/talk-with-your-partner.png "Talk with Your Partner")![](https://bjc.edc.org/bjc-r/img/4-internet/hex-timer-preview.gif)
 
 ### Reading Hexadecimal
 
-**Base 16** uses **powers of sixteen **instead of powers of two or ten. Place values in hexadecimal represent the units place \(16_0 = 1\), the sixteens place \(161 = 16\), the two hundred fifty-sixes place \(16_2 = 256\), the four thousand ninety-sixes place \(16_\__3 = 4096\), etc. So, for example:
+**Base 16** uses **powers of sixteen **instead of powers of two or ten. Place values in hexadecimal represent the units place \(16_0 = 1\), the sixteens place \(161 = 16\), the two hundred fifty-sixes place \(16\_2 = 256\), the four thousand ninety-sixes place \(16_\_\_3 = 4096\), etc. So, for example:
 
 3B16 = 3 x 16^1 + 11 x 16^0 = 48 + 11 = 59\_10
 
@@ -52,8 +53,6 @@ Remember: A-F cover the digits after 9:
 | 10 | 11 | 12 | 13 | 14 | 15 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | A | B | C | D | E | F |
-
-
 
 #### For You To Do
 
@@ -77,14 +76,13 @@ A numeral such as 11 means eleven in the usual decimal notation, or three if it 
 
 To translate from base 10 \(for example, 299\_10\) to base 16, **first write out the hexadecimal place values** by multiplying by 16 moving left from the units place until you get to a value larger than your number \(4096 for this example\). **Then think**, "My number is smaller than 4096, so I leave that place blank. But I can subtract two hundred fifty-six once, so I write a 1 there, and there's 43 left. Now, I can subtract two sixteens, and there's 11 left. And 11 is B in hex."
 
-![](https://bjc.edc.org/bjc-r/img/8-recursive-reporters/r-to-l.png "right-to-left arrow")
+![](https://bjc.edc.org/bjc-r/img/8-recursive-reporters/r-to-l.png "right-to-left arrow")
 
 | 4096 | 256 | 16 | 1 |
 | :--- | :--- | :--- | :--- |
 |  | 1 | 2 | B |
 
-  
-Now, read the number off: 12B_16 = 299_\_10.
+Now, read the number off: 12B\__16 = 299_\_10.
 
 #### For You To Do
 
@@ -102,6 +100,4 @@ Notice that the algorithms for converting between binary and decimal are the sam
 2. Convert 229\_10 to base 7.
 
 ![](/assets/talk_with_partner.png)
-
-
 
