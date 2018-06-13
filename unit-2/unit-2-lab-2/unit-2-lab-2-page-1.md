@@ -20,7 +20,7 @@ Now they need a script that will use that list to make the drawing, like this: !
 
 Betsy clicks `Make a variable`, names it `A`, and builds![](http://bjc.edc.org/bjc-r/img/3-lists/A.png "set A to {{-50,20}, {-10,120}, {10,120}, {50,20}, {30,20}, {20,50}, {-20,50}, {-30,20}}").
 
-Then she clicks that `set `block to run it.
+Then she clicks that `set`block to run it.
 
 **Alphie: **So, for each of those eight points, we want the sprite to move to it. Hmmm... ![](http://bjc.edc.org/bjc-r/img/2-complexity/go-to-x%28%29-y%28%29.png "go to x:\(\) y:\(\)") won't work, because it needs two separate inputs. We need a block that takes one input, a point like ![](http://bjc.edc.org/bjc-r/img/2-complexity/list%28-50%29%2820%29.png "list\(-50\)\(20\)").
 
@@ -28,7 +28,7 @@ Then she clicks that `set `block to run it.
 
 **Gamal:** Oh! I know how! I bet we can use ![](http://bjc.edc.org/bjc-r/img/2-complexity/item%28%29of%28list%29.png "item\(\)of\(list\)"). Give it a number as its first input. I bet that the ![](http://bjc.edc.org/bjc-r/img/3-lists/list_input_slot.png "rectangle with two smaller orange rectangles inside") just says that it expects a list as its second input.
 
-**Alphie:** I wonder if we can make _our _`go to point `block show that it expects a list as input....
+**Alphie:** I wonder if we can make _our _`go to point`block show that it expects a list as input....
 
 Yes, _you can make your blocks show what type of data they expect as inputs: a number, a list, or some other type. Some languages require the data type to be indicated. In Snap_! it's an option. It's not necessary but, like assigning a color to a block, it can be a helpful reminder of what the block does and what type of input it expects. You've already seen input slots of several shapes, indicating different expected data types.
 
@@ -41,30 +41,31 @@ Yes, _you can make your blocks show what type of data they expect as inputs: a n
      ![](http://bjc.edc.org/bjc-r/img/2-complexity/create-input-name-right_arrow.png "create input name right arrow")
 
    * Choose the data type you want for that input.
+
    * Click OK.
 
 2. Finish building your go to point and test your block with a few points as input to make sure it does what you want it to.
 
 #### Thinking Out Loud
 
-**Alphie:** Great! Now we can use our `go to point `block for each of the points in our list.
+**Alphie:** Great! Now we can use our `go to point`block for each of the points in our list.
 
 **Betsy:** I bet we can use![](http://bjc.edc.org/bjc-r/img/2-complexity/for-each-%28item%29-of%28%29.png "for-each-\(item\)-of\(\)").
 
 Alphie and Betsy design this new script to automate the process of going to each point. ![](http://bjc.edc.org/bjc-r/img/2-complexity/new-for-each-point-script.png "new-for-each-point-script") Then they test it out.
 
-**Alphie:** Yup! `for each `does exactly what we want. But we have a couple of bugs to fix.
+**Alphie:** Yup! `for each`does exactly what we want. But we have a couple of bugs to fix.
 
 #### For You To Do
 
-Build and test the script they used.
+Build and test the script they used. 
 
 1. Fix the two bugs Alphie noticed.
 2. Save this as "U2L2-DrawShape"
 3. **Think and write:**
    * For what purposes might you not want to connect the first and last points?
    * For what purposes might you want to have the pen down only when the sprite marks each point, but never when the sprite moves from one point to another?
-   * For what purposes might you prefer `go to `over `glide`?
+   * For what purposes might you prefer `go to`over `glide`?
 
 #### Take It Further
 
